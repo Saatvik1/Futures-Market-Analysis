@@ -1,0 +1,6929 @@
+{
+    "1/10/2022": [
+        {
+            "Location": 15311.0,
+            "Direction": "Short",
+            "RR": 104.25
+        },
+        "10:10:00",
+        true
+    ],
+    "1/10/2023": [
+        {
+            "Location": 11246.25,
+            "Direction": "Long",
+            "RR": 108.5
+        },
+        "10:40:00",
+        false
+    ],
+    "1/10/2024": [
+        {
+            "Location": 16873.75,
+            "Direction": "Long",
+            "RR": 34.5
+        },
+        "09:50:00",
+        false
+    ],
+    "1/11/2022": [
+        {
+            "Location": 15578.75,
+            "Direction": "Long",
+            "RR": 72.5
+        },
+        "09:40:00",
+        false
+    ],
+    "1/11/2023": [
+        {
+            "Location": 11348.25,
+            "Direction": "Long",
+            "RR": 57.5
+        },
+        "12:15:00",
+        true
+    ],
+    "1/11/2024": [
+        {
+            "Location": 17015.0,
+            "Direction": "Long",
+            "RR": 40.25
+        },
+        "09:45:00",
+        false
+    ],
+    "1/12/2022": [
+        {
+            "Location": 15926.25,
+            "Direction": "Short",
+            "RR": 66.0
+        },
+        "10:05:00",
+        false
+    ],
+    "1/12/2023": [
+        {
+            "Location": 11440.5,
+            "Direction": "Short",
+            "RR": 78.5
+        },
+        "09:40:00",
+        true
+    ],
+    "1/12/2024": [
+        {
+            "Location": 17014.5,
+            "Direction": "Long",
+            "RR": 40.75
+        },
+        "10:00:00",
+        false
+    ],
+    "1/13/2022": [
+        {
+            "Location": 15967.0,
+            "Direction": "Long",
+            "RR": 34.75
+        },
+        "09:40:00",
+        false
+    ],
+    "1/13/2023": [
+        {
+            "Location": 11456.25,
+            "Direction": "Long",
+            "RR": 39.5
+        },
+        "09:40:00",
+        false
+    ],
+    "1/14/2022": [
+        {
+            "Location": 15458.75,
+            "Direction": "Long",
+            "RR": 79.25
+        },
+        "09:45:00",
+        true
+    ],
+    "1/15/2024": [
+        {
+            "Location": 16955.5,
+            "Direction": "Short",
+            "RR": 11.0
+        },
+        "09:45:00",
+        true
+    ],
+    "1/16/2023": [
+        {
+            "Location": 11602.0,
+            "Direction": "Long",
+            "RR": 14.25
+        },
+        "10:10:00",
+        false
+    ],
+    "1/16/2024": [
+        {
+            "Location": 16940.25,
+            "Direction": "Long",
+            "RR": 35.5
+        },
+        "09:40:00",
+        false
+    ],
+    "1/17/2022": [
+        {
+            "Location": 15610.25,
+            "Direction": "Long",
+            "RR": 23.75
+        },
+        "09:40:00",
+        false
+    ],
+    "1/17/2023": [
+        {
+            "Location": 11579.75,
+            "Direction": "Short",
+            "RR": 41.0
+        },
+        "09:50:00",
+        false
+    ],
+    "1/17/2024": [
+        {
+            "Location": 16758.75,
+            "Direction": "Short",
+            "RR": 84.5
+        },
+        "15:45:00",
+        false
+    ],
+    "1/18/2022": [
+        {
+            "Location": 15290.0,
+            "Direction": "Short",
+            "RR": 83.0
+        },
+        "09:40:00",
+        false
+    ],
+    "1/18/2023": [
+        {
+            "Location": 11679.75,
+            "Direction": "Short",
+            "RR": 47.25
+        },
+        "10:00:00",
+        false
+    ],
+    "1/18/2024": [
+        {
+            "Location": 17047.5,
+            "Direction": "Long",
+            "RR": 53.0
+        },
+        "10:00:00",
+        false
+    ],
+    "1/19/2022": [
+        {
+            "Location": 15316.0,
+            "Direction": "Long",
+            "RR": 61.75
+        },
+        "10:30:00",
+        false
+    ],
+    "1/19/2023": [
+        {
+            "Location": 11443.75,
+            "Direction": "Long",
+            "RR": 47.25
+        },
+        "09:45:00",
+        false
+    ],
+    "1/19/2024": [
+        {
+            "Location": 17201.0,
+            "Direction": "Long",
+            "RR": 35.0
+        },
+        "10:55:00",
+        true
+    ],
+    "1/2/2024": [
+        {
+            "Location": 16829.75,
+            "Direction": "Short",
+            "RR": 44.0
+        },
+        "09:40:00",
+        true
+    ],
+    "1/20/2022": [
+        {
+            "Location": 15221.25,
+            "Direction": "Long",
+            "RR": 61.25
+        },
+        "09:55:00",
+        true
+    ],
+    "1/20/2023": [
+        {
+            "Location": 11388.25,
+            "Direction": "Short",
+            "RR": 41.25
+        },
+        "09:40:00",
+        false
+    ],
+    "1/21/2022": [
+        {
+            "Location": 14706.5,
+            "Direction": "Short",
+            "RR": 112.25
+        },
+        "10:10:00",
+        true
+    ],
+    "1/22/2024": [
+        {
+            "Location": 17576.0,
+            "Direction": "Long",
+            "RR": 48.75
+        },
+        "09:40:00",
+        false
+    ],
+    "1/23/2023": [
+        {
+            "Location": 11714.25,
+            "Direction": "Long",
+            "RR": 42.75
+        },
+        "09:45:00",
+        true
+    ],
+    "1/23/2024": [
+        {
+            "Location": 17415.25,
+            "Direction": "Short",
+            "RR": 73.0
+        },
+        "12:55:00",
+        false
+    ],
+    "1/24/2022": [
+        {
+            "Location": 14227.75,
+            "Direction": "Long",
+            "RR": 85.75
+        },
+        "09:40:00",
+        false
+    ],
+    "1/24/2023": [
+        {
+            "Location": 11883.75,
+            "Direction": "Long",
+            "RR": 43.75
+        },
+        "09:50:00",
+        true
+    ],
+    "1/24/2024": [
+        {
+            "Location": 17658.0,
+            "Direction": "Short",
+            "RR": 37.75
+        },
+        "10:15:00",
+        false
+    ],
+    "1/25/2022": [
+        {
+            "Location": 14266.0,
+            "Direction": "Long",
+            "RR": 82.0
+        },
+        "09:45:00",
+        false
+    ],
+    "1/25/2023": [
+        {
+            "Location": 11713.0,
+            "Direction": "Long",
+            "RR": 55.0
+        },
+        "09:50:00",
+        false
+    ],
+    "1/25/2024": [
+        {
+            "Location": 17674.75,
+            "Direction": "Short",
+            "RR": 52.25
+        },
+        "10:20:00",
+        false
+    ],
+    "1/26/2022": [
+        {
+            "Location": 14407.75,
+            "Direction": "Short",
+            "RR": 90.5
+        },
+        "10:00:00",
+        false
+    ],
+    "1/26/2023": [
+        {
+            "Location": 12068.75,
+            "Direction": "Long",
+            "RR": 52.5
+        },
+        "09:40:00",
+        false
+    ],
+    "1/26/2024": [
+        {
+            "Location": 17534.75,
+            "Direction": "Short",
+            "RR": 36.5
+        },
+        "10:25:00",
+        false
+    ],
+    "1/27/2022": [
+        {
+            "Location": 14275.75,
+            "Direction": "Short",
+            "RR": 72.5
+        },
+        "09:40:00",
+        false
+    ],
+    "1/27/2023": [
+        {
+            "Location": 12094.25,
+            "Direction": "Long",
+            "RR": 52.75
+        },
+        "09:50:00",
+        true
+    ],
+    "1/28/2022": [
+        {
+            "Location": 13967.75,
+            "Direction": "Short",
+            "RR": 134.75
+        },
+        "10:50:00",
+        false
+    ],
+    "1/29/2024": [
+        {
+            "Location": 17557.0,
+            "Direction": "Long",
+            "RR": 27.5
+        },
+        "10:00:00",
+        false
+    ],
+    "1/3/2022": [
+        {
+            "Location": 16449.0,
+            "Direction": "Long",
+            "RR": 71.0
+        },
+        "09:45:00",
+        false
+    ],
+    "1/3/2023": [
+        {
+            "Location": 11142.0,
+            "Direction": "Long",
+            "RR": 69.75
+        },
+        "09:45:00",
+        false
+    ],
+    "1/3/2024": [
+        {
+            "Location": 16624.0,
+            "Direction": "Long",
+            "RR": 42.75
+        },
+        "10:10:00",
+        false
+    ],
+    "1/30/2023": [
+        {
+            "Location": 12064.5,
+            "Direction": "Short",
+            "RR": 46.5
+        },
+        "09:45:00",
+        false
+    ],
+    "1/30/2024": [
+        {
+            "Location": 17653.75,
+            "Direction": "Short",
+            "RR": 31.25
+        },
+        "10:50:00",
+        true
+    ],
+    "1/31/2022": [
+        {
+            "Location": 14522.0,
+            "Direction": "Long",
+            "RR": 106.0
+        },
+        "09:55:00",
+        true
+    ],
+    "1/31/2023": [
+        {
+            "Location": 12031.5,
+            "Direction": "Long",
+            "RR": 62.75
+        },
+        "11:35:00",
+        true
+    ],
+    "1/31/2024": [
+        {
+            "Location": 17371.75,
+            "Direction": "Short",
+            "RR": 55.0
+        },
+        "10:30:00",
+        true
+    ],
+    "1/4/2022": [
+        {
+            "Location": 16468.5,
+            "Direction": "Short",
+            "RR": 43.75
+        },
+        "10:00:00",
+        true
+    ],
+    "1/4/2023": [
+        {
+            "Location": 11041.5,
+            "Direction": "Long",
+            "RR": 80.0
+        },
+        "09:45:00",
+        false
+    ],
+    "1/4/2024": [
+        {
+            "Location": 16489.25,
+            "Direction": "Long",
+            "RR": 46.25
+        },
+        "10:45:00",
+        true
+    ],
+    "1/5/2022": [
+        {
+            "Location": 16113.5,
+            "Direction": "Short",
+            "RR": 103.25
+        },
+        "09:50:00",
+        false
+    ],
+    "1/5/2023": [
+        {
+            "Location": 10853.25,
+            "Direction": "Short",
+            "RR": 71.75
+        },
+        "10:05:00",
+        false
+    ],
+    "1/5/2024": [
+        {
+            "Location": 16486.75,
+            "Direction": "Long",
+            "RR": 49.5
+        },
+        "10:00:00",
+        true
+    ],
+    "1/6/2022": [
+        {
+            "Location": 15797.5,
+            "Direction": "Long",
+            "RR": 125.75
+        },
+        "10:00:00",
+        false
+    ],
+    "1/6/2023": [
+        {
+            "Location": 10935.25,
+            "Direction": "Long",
+            "RR": 82.25
+        },
+        "09:40:00",
+        false
+    ],
+    "1/7/2022": [
+        {
+            "Location": 15700.75,
+            "Direction": "Short",
+            "RR": 77.5
+        },
+        "09:40:00",
+        false
+    ],
+    "1/8/2024": [
+        {
+            "Location": 16548.5,
+            "Direction": "Long",
+            "RR": 43.25
+        },
+        "09:45:00",
+        true
+    ],
+    "1/9/2023": [
+        {
+            "Location": 11199.0,
+            "Direction": "Short",
+            "RR": 45.75
+        },
+        "09:40:00",
+        false
+    ],
+    "1/9/2024": [
+        {
+            "Location": 16666.0,
+            "Direction": "Short",
+            "RR": 48.75
+        },
+        "10:05:00",
+        false
+    ],
+    "10/1/2024": [
+        {
+            "Location": 20161.75,
+            "Direction": "Short",
+            "RR": 104.5
+        },
+        "09:45:00",
+        true
+    ],
+    "10/10/2022": [
+        {
+            "Location": 11051.75,
+            "Direction": "Short",
+            "RR": 74.5
+        },
+        "10:35:00",
+        true
+    ],
+    "10/10/2023": [
+        {
+            "Location": 15189.0,
+            "Direction": "Short",
+            "RR": 30.75
+        },
+        "09:40:00",
+        false
+    ],
+    "10/10/2024": [
+        {
+            "Location": 20340.25,
+            "Direction": "Short",
+            "RR": 50.0
+        },
+        "10:05:00",
+        false
+    ],
+    "10/11/2022": [
+        {
+            "Location": 10892.5,
+            "Direction": "Short",
+            "RR": 52.5
+        },
+        "09:55:00",
+        true
+    ],
+    "10/11/2023": [
+        {
+            "Location": 15377.75,
+            "Direction": "Long",
+            "RR": 55.0
+        },
+        "09:50:00",
+        false
+    ],
+    "10/11/2024": [
+        {
+            "Location": 20318.0,
+            "Direction": "Short",
+            "RR": 29.75
+        },
+        "09:40:00",
+        false
+    ],
+    "10/12/2022": [
+        {
+            "Location": 10874.75,
+            "Direction": "Long",
+            "RR": 69.5
+        },
+        "09:45:00",
+        true
+    ],
+    "10/12/2023": [
+        {
+            "Location": 15403.25,
+            "Direction": "Long",
+            "RR": 25.75
+        },
+        "09:40:00",
+        false
+    ],
+    "10/13/2022": [
+        {
+            "Location": 10541.75,
+            "Direction": "Long",
+            "RR": 57.25
+        },
+        "09:50:00",
+        true
+    ],
+    "10/13/2023": [
+        {
+            "Location": 15328.75,
+            "Direction": "Short",
+            "RR": 38.25
+        },
+        "10:05:00",
+        true
+    ],
+    "10/14/2022": [
+        {
+            "Location": 11105.25,
+            "Direction": "Short",
+            "RR": 102.5
+        },
+        "10:00:00",
+        true
+    ],
+    "10/14/2024": [
+        {
+            "Location": 20586.0,
+            "Direction": "Long",
+            "RR": 45.25
+        },
+        "09:45:00",
+        true
+    ],
+    "10/15/2024": [
+        {
+            "Location": 20644.25,
+            "Direction": "Long",
+            "RR": 38.75
+        },
+        "10:10:00",
+        false
+    ],
+    "10/16/2023": [
+        {
+            "Location": 15234.75,
+            "Direction": "Long",
+            "RR": 66.25
+        },
+        "10:30:00",
+        true
+    ],
+    "10/16/2024": [
+        {
+            "Location": 20300.0,
+            "Direction": "Short",
+            "RR": 57.5
+        },
+        "09:40:00",
+        true
+    ],
+    "10/17/2022": [
+        {
+            "Location": 11055.0,
+            "Direction": "Long",
+            "RR": 56.25
+        },
+        "09:40:00",
+        true
+    ],
+    "10/17/2023": [
+        {
+            "Location": 15113.25,
+            "Direction": "Short",
+            "RR": 29.0
+        },
+        "09:45:00",
+        true
+    ],
+    "10/18/2021": [
+        {
+            "Location": 15060.0,
+            "Direction": "Short",
+            "RR": 33.0
+        },
+        "09:40:00",
+        false
+    ],
+    "10/18/2022": [
+        {
+            "Location": 11376.5,
+            "Direction": "Short",
+            "RR": 55.5
+        },
+        "09:50:00",
+        true
+    ],
+    "10/18/2023": [
+        {
+            "Location": 15194.75,
+            "Direction": "Long",
+            "RR": 69.5
+        },
+        "09:45:00",
+        false
+    ],
+    "10/19/2021": [
+        {
+            "Location": 15337.25,
+            "Direction": "Long",
+            "RR": 32.5
+        },
+        "10:55:00",
+        true
+    ],
+    "10/19/2022": [
+        {
+            "Location": 11192.75,
+            "Direction": "Long",
+            "RR": 74.25
+        },
+        "09:40:00",
+        false
+    ],
+    "10/19/2023": [
+        {
+            "Location": 15073.0,
+            "Direction": "Short",
+            "RR": 36.25
+        },
+        "09:40:00",
+        true
+    ],
+    "10/2/2023": [
+        {
+            "Location": 14907.75,
+            "Direction": "Long",
+            "RR": 60.25
+        },
+        "10:00:00",
+        true
+    ],
+    "10/2/2024": [
+        {
+            "Location": 19911.75,
+            "Direction": "Short",
+            "RR": 55.25
+        },
+        "09:40:00",
+        true
+    ],
+    "10/20/2021": [
+        {
+            "Location": 15408.25,
+            "Direction": "Short",
+            "RR": 21.5
+        },
+        "09:40:00",
+        false
+    ],
+    "10/20/2022": [
+        {
+            "Location": 11103.25,
+            "Direction": "Short",
+            "RR": 58.5
+        },
+        "09:40:00",
+        false
+    ],
+    "10/20/2023": [
+        {
+            "Location": 14864.0,
+            "Direction": "Long",
+            "RR": 53.5
+        },
+        "10:10:00",
+        false
+    ],
+    "10/21/2021": [
+        {
+            "Location": 15366.5,
+            "Direction": "Long",
+            "RR": 32.75
+        },
+        "10:05:00",
+        true
+    ],
+    "10/21/2022": [
+        {
+            "Location": 11085.25,
+            "Direction": "Long",
+            "RR": 90.25
+        },
+        "10:05:00",
+        true
+    ],
+    "10/22/2021": [
+        {
+            "Location": 15437.75,
+            "Direction": "Long",
+            "RR": 33.5
+        },
+        "09:45:00",
+        false
+    ],
+    "10/23/2023": [
+        {
+            "Location": 14573.75,
+            "Direction": "Short",
+            "RR": 56.25
+        },
+        "09:40:00",
+        true
+    ],
+    "10/24/2022": [
+        {
+            "Location": 11372.5,
+            "Direction": "Long",
+            "RR": 72.25
+        },
+        "10:00:00",
+        false
+    ],
+    "10/24/2023": [
+        {
+            "Location": 14815.0,
+            "Direction": "Long",
+            "RR": 52.25
+        },
+        "09:50:00",
+        false
+    ],
+    "10/25/2021": [
+        {
+            "Location": 15393.0,
+            "Direction": "Short",
+            "RR": 41.25
+        },
+        "09:40:00",
+        true
+    ],
+    "10/25/2022": [
+        {
+            "Location": 11572.25,
+            "Direction": "Long",
+            "RR": 57.5
+        },
+        "09:50:00",
+        true
+    ],
+    "10/25/2023": [
+        {
+            "Location": 14668.5,
+            "Direction": "Short",
+            "RR": 81.0
+        },
+        "11:50:00",
+        true
+    ],
+    "10/26/2021": [
+        {
+            "Location": 15632.5,
+            "Direction": "Long",
+            "RR": 52.75
+        },
+        "10:15:00",
+        true
+    ],
+    "10/26/2022": [
+        {
+            "Location": 11493.5,
+            "Direction": "Long",
+            "RR": 60.75
+        },
+        "10:00:00",
+        true
+    ],
+    "10/26/2023": [
+        {
+            "Location": 14390.0,
+            "Direction": "Short",
+            "RR": 69.25
+        },
+        "09:55:00",
+        true
+    ],
+    "10/27/2021": [
+        {
+            "Location": 15566.0,
+            "Direction": "Short",
+            "RR": 35.75
+        },
+        "09:40:00",
+        false
+    ],
+    "10/27/2022": [
+        {
+            "Location": 11400.25,
+            "Direction": "Short",
+            "RR": 64.0
+        },
+        "09:45:00",
+        true
+    ],
+    "10/27/2023": [
+        {
+            "Location": 14306.5,
+            "Direction": "Short",
+            "RR": 43.0
+        },
+        "09:45:00",
+        false
+    ],
+    "10/28/2021": [
+        {
+            "Location": 15653.75,
+            "Direction": "Short",
+            "RR": 34.0
+        },
+        "09:45:00",
+        false
+    ],
+    "10/28/2022": [
+        {
+            "Location": 11306.75,
+            "Direction": "Long",
+            "RR": 100.75
+        },
+        "10:30:00",
+        true
+    ],
+    "10/29/2021": [
+        {
+            "Location": 15653.75,
+            "Direction": "Long",
+            "RR": 38.25
+        },
+        "09:55:00",
+        true
+    ],
+    "10/3/2022": [
+        {
+            "Location": 11060.75,
+            "Direction": "Short",
+            "RR": 66.25
+        },
+        "09:45:00",
+        false
+    ],
+    "10/3/2023": [
+        {
+            "Location": 14910.25,
+            "Direction": "Long",
+            "RR": 37.0
+        },
+        "09:50:00",
+        true
+    ],
+    "10/3/2024": [
+        {
+            "Location": 19979.75,
+            "Direction": "Long",
+            "RR": 85.25
+        },
+        "10:00:00",
+        true
+    ],
+    "10/30/2023": [
+        {
+            "Location": 14397.0,
+            "Direction": "Long",
+            "RR": 62.5
+        },
+        "09:45:00",
+        true
+    ],
+    "10/31/2022": [
+        {
+            "Location": 11453.0,
+            "Direction": "Short",
+            "RR": 69.75
+        },
+        "10:30:00",
+        true
+    ],
+    "10/31/2023": [
+        {
+            "Location": 14373.5,
+            "Direction": "Short",
+            "RR": 55.5
+        },
+        "09:50:00",
+        true
+    ],
+    "10/4/2022": [
+        {
+            "Location": 11562.75,
+            "Direction": "Long",
+            "RR": 48.75
+        },
+        "09:55:00",
+        true
+    ],
+    "10/4/2023": [
+        {
+            "Location": 14803.75,
+            "Direction": "Long",
+            "RR": 55.0
+        },
+        "10:05:00",
+        false
+    ],
+    "10/4/2024": [
+        {
+            "Location": 20236.0,
+            "Direction": "Long",
+            "RR": 50.5
+        },
+        "09:50:00",
+        false
+    ],
+    "10/5/2022": [
+        {
+            "Location": 11478.0,
+            "Direction": "Short",
+            "RR": 61.25
+        },
+        "10:15:00",
+        true
+    ],
+    "10/5/2023": [
+        {
+            "Location": 14920.25,
+            "Direction": "Long",
+            "RR": 31.75
+        },
+        "09:40:00",
+        false
+    ],
+    "10/6/2022": [
+        {
+            "Location": 11657.25,
+            "Direction": "Long",
+            "RR": 68.25
+        },
+        "10:00:00",
+        false
+    ],
+    "10/6/2023": [
+        {
+            "Location": 14735.5,
+            "Direction": "Short",
+            "RR": 65.75
+        },
+        "10:20:00",
+        false
+    ],
+    "10/7/2022": [
+        {
+            "Location": 11348.25,
+            "Direction": "Long",
+            "RR": 52.75
+        },
+        "09:40:00",
+        false
+    ],
+    "10/7/2024": [
+        {
+            "Location": 20160.75,
+            "Direction": "Long",
+            "RR": 45.5
+        },
+        "09:40:00",
+        false
+    ],
+    "10/8/2024": [
+        {
+            "Location": 20106.5,
+            "Direction": "Long",
+            "RR": 33.0
+        },
+        "09:45:00",
+        false
+    ],
+    "10/9/2023": [
+        {
+            "Location": 14968.25,
+            "Direction": "Short",
+            "RR": 48.0
+        },
+        "09:40:00",
+        false
+    ],
+    "10/9/2024": [
+        {
+            "Location": 20252.5,
+            "Direction": "Short",
+            "RR": 37.75
+        },
+        "09:40:00",
+        false
+    ],
+    "11/1/2021": [
+        {
+            "Location": 15829.5,
+            "Direction": "Short",
+            "RR": 39.25
+        },
+        "10:00:00",
+        true
+    ],
+    "11/1/2022": [
+        {
+            "Location": 11576.0,
+            "Direction": "Short",
+            "RR": 43.25
+        },
+        "09:45:00",
+        true
+    ],
+    "11/1/2023": [
+        {
+            "Location": 14546.25,
+            "Direction": "Long",
+            "RR": 31.25
+        },
+        "09:45:00",
+        true
+    ],
+    "11/10/2021": [
+        {
+            "Location": 16109.25,
+            "Direction": "Long",
+            "RR": 67.75
+        },
+        "09:55:00",
+        true
+    ],
+    "11/10/2022": [
+        {
+            "Location": 11330.75,
+            "Direction": "Short",
+            "RR": 64.25
+        },
+        "09:50:00",
+        false
+    ],
+    "11/10/2023": [
+        {
+            "Location": 15330.75,
+            "Direction": "Long",
+            "RR": 25.5
+        },
+        "09:40:00",
+        true
+    ],
+    "11/11/2021": [
+        {
+            "Location": 16074.75,
+            "Direction": "Short",
+            "RR": 36.0
+        },
+        "10:30:00",
+        true
+    ],
+    "11/11/2022": [
+        {
+            "Location": 11583.75,
+            "Direction": "Short",
+            "RR": 60.75
+        },
+        "09:45:00",
+        false
+    ],
+    "11/12/2021": [
+        {
+            "Location": 16048.75,
+            "Direction": "Short",
+            "RR": 29.5
+        },
+        "09:40:00",
+        true
+    ],
+    "11/13/2023": [
+        {
+            "Location": 15509.5,
+            "Direction": "Short",
+            "RR": 29.75
+        },
+        "09:50:00",
+        true
+    ],
+    "11/14/2022": [
+        {
+            "Location": 11738.0,
+            "Direction": "Short",
+            "RR": 47.75
+        },
+        "10:05:00",
+        false
+    ],
+    "11/14/2023": [
+        {
+            "Location": 15834.25,
+            "Direction": "Long",
+            "RR": 44.25
+        },
+        "10:00:00",
+        true
+    ],
+    "11/15/2021": [
+        {
+            "Location": 16247.75,
+            "Direction": "Long",
+            "RR": 35.0
+        },
+        "09:40:00",
+        false
+    ],
+    "11/15/2022": [
+        {
+            "Location": 12017.25,
+            "Direction": "Short",
+            "RR": 46.5
+        },
+        "09:45:00",
+        true
+    ],
+    "11/15/2023": [
+        {
+            "Location": 15966.75,
+            "Direction": "Long",
+            "RR": 31.0
+        },
+        "09:40:00",
+        false
+    ],
+    "11/16/2021": [
+        {
+            "Location": 16202.75,
+            "Direction": "Long",
+            "RR": 53.75
+        },
+        "10:15:00",
+        true
+    ],
+    "11/16/2022": [
+        {
+            "Location": 11793.75,
+            "Direction": "Short",
+            "RR": 42.75
+        },
+        "09:50:00",
+        true
+    ],
+    "11/16/2023": [
+        {
+            "Location": 15855.5,
+            "Direction": "Long",
+            "RR": 30.5
+        },
+        "09:50:00",
+        true
+    ],
+    "11/17/2021": [
+        {
+            "Location": 16292.25,
+            "Direction": "Short",
+            "RR": 30.5
+        },
+        "10:10:00",
+        false
+    ],
+    "11/17/2022": [
+        {
+            "Location": 11587.5,
+            "Direction": "Long",
+            "RR": 44.0
+        },
+        "09:45:00",
+        true
+    ],
+    "11/17/2023": [
+        {
+            "Location": 15851.75,
+            "Direction": "Short",
+            "RR": 22.0
+        },
+        "09:50:00",
+        false
+    ],
+    "11/18/2021": [
+        {
+            "Location": 16402.75,
+            "Direction": "Long",
+            "RR": 49.75
+        },
+        "10:10:00",
+        false
+    ],
+    "11/18/2022": [
+        {
+            "Location": 11762.5,
+            "Direction": "Short",
+            "RR": 80.25
+        },
+        "10:05:00",
+        true
+    ],
+    "11/19/2021": [
+        {
+            "Location": 16559.75,
+            "Direction": "Long",
+            "RR": 43.75
+        },
+        "09:55:00",
+        true
+    ],
+    "11/2/2021": [
+        {
+            "Location": 15889.5,
+            "Direction": "Long",
+            "RR": 25.75
+        },
+        "09:40:00",
+        true
+    ],
+    "11/2/2022": [
+        {
+            "Location": 11271.0,
+            "Direction": "Short",
+            "RR": 70.25
+        },
+        "12:35:00",
+        true
+    ],
+    "11/2/2023": [
+        {
+            "Location": 14937.25,
+            "Direction": "Long",
+            "RR": 33.75
+        },
+        "09:45:00",
+        false
+    ],
+    "11/20/2023": [
+        {
+            "Location": 15962.5,
+            "Direction": "Long",
+            "RR": 68.0
+        },
+        "12:10:00",
+        true
+    ],
+    "11/21/2022": [
+        {
+            "Location": 11631.75,
+            "Direction": "Short",
+            "RR": 62.5
+        },
+        "09:50:00",
+        false
+    ],
+    "11/21/2023": [
+        {
+            "Location": 16015.75,
+            "Direction": "Long",
+            "RR": 35.75
+        },
+        "10:00:00",
+        false
+    ],
+    "11/22/2021": [
+        {
+            "Location": 16682.25,
+            "Direction": "Long",
+            "RR": 44.25
+        },
+        "09:45:00",
+        true
+    ],
+    "11/22/2022": [
+        {
+            "Location": 11587.75,
+            "Direction": "Short",
+            "RR": 40.75
+        },
+        "09:40:00",
+        true
+    ],
+    "11/22/2023": [
+        {
+            "Location": 16148.25,
+            "Direction": "Long",
+            "RR": 79.25
+        },
+        "09:50:00",
+        false
+    ],
+    "11/23/2021": [
+        {
+            "Location": 16346.75,
+            "Direction": "Long",
+            "RR": 61.5
+        },
+        "09:45:00",
+        true
+    ],
+    "11/23/2022": [
+        {
+            "Location": 11776.5,
+            "Direction": "Long",
+            "RR": 31.5
+        },
+        "09:45:00",
+        true
+    ],
+    "11/23/2023": [
+        {
+            "Location": 16064.0,
+            "Direction": "Long",
+            "RR": 8.25
+        },
+        "09:55:00",
+        false
+    ],
+    "11/24/2021": [
+        {
+            "Location": 16136.75,
+            "Direction": "Short",
+            "RR": 71.75
+        },
+        "10:00:00",
+        false
+    ],
+    "11/24/2022": [
+        {
+            "Location": 11912.0,
+            "Direction": "Short",
+            "RR": 6.75
+        },
+        "09:40:00",
+        true
+    ],
+    "11/24/2023": null,
+    "11/25/2021": [
+        {
+            "Location": 16379.75,
+            "Direction": "Short",
+            "RR": 11.25
+        },
+        "09:40:00",
+        false
+    ],
+    "11/25/2022": null,
+    "11/26/2021": [
+        {
+            "Location": 16296.5,
+            "Direction": "Long",
+            "RR": 62.5
+        },
+        "09:40:00",
+        false
+    ],
+    "11/27/2023": [
+        {
+            "Location": 15985.25,
+            "Direction": "Short",
+            "RR": 52.5
+        },
+        "10:05:00",
+        false
+    ],
+    "11/28/2022": [
+        {
+            "Location": 11754.0,
+            "Direction": "Long",
+            "RR": 60.25
+        },
+        "10:25:00",
+        false
+    ],
+    "11/28/2023": [
+        {
+            "Location": 15973.0,
+            "Direction": "Short",
+            "RR": 34.75
+        },
+        "10:35:00",
+        false
+    ],
+    "11/29/2021": [
+        {
+            "Location": 16217.75,
+            "Direction": "Short",
+            "RR": 64.25
+        },
+        "09:50:00",
+        false
+    ],
+    "11/29/2022": [
+        {
+            "Location": 11597.75,
+            "Direction": "Short",
+            "RR": 30.5
+        },
+        "09:55:00",
+        true
+    ],
+    "11/29/2023": [
+        {
+            "Location": 16188.75,
+            "Direction": "Long",
+            "RR": 42.5
+        },
+        "10:05:00",
+        false
+    ],
+    "11/3/2021": [
+        {
+            "Location": 15951.75,
+            "Direction": "Short",
+            "RR": 45.75
+        },
+        "14:00:00",
+        false
+    ],
+    "11/3/2022": [
+        {
+            "Location": 10790.75,
+            "Direction": "Short",
+            "RR": 58.0
+        },
+        "09:55:00",
+        true
+    ],
+    "11/3/2023": [
+        {
+            "Location": 15041.25,
+            "Direction": "Short",
+            "RR": 39.5
+        },
+        "09:40:00",
+        false
+    ],
+    "11/30/2021": [
+        {
+            "Location": 16325.0,
+            "Direction": "Short",
+            "RR": 47.5
+        },
+        "09:45:00",
+        false
+    ],
+    "11/30/2022": [
+        {
+            "Location": 11569.5,
+            "Direction": "Long",
+            "RR": 51.0
+        },
+        "11:00:00",
+        false
+    ],
+    "11/30/2023": [
+        {
+            "Location": 16012.5,
+            "Direction": "Short",
+            "RR": 39.25
+        },
+        "09:40:00",
+        true
+    ],
+    "11/4/2021": [
+        {
+            "Location": 16182.5,
+            "Direction": "Long",
+            "RR": 25.75
+        },
+        "09:45:00",
+        true
+    ],
+    "11/4/2022": [
+        {
+            "Location": 10863.25,
+            "Direction": "Short",
+            "RR": 100.75
+        },
+        "09:40:00",
+        true
+    ],
+    "11/5/2021": [
+        {
+            "Location": 16427.75,
+            "Direction": "Long",
+            "RR": 37.75
+        },
+        "09:45:00",
+        false
+    ],
+    "11/6/2023": [
+        {
+            "Location": 15238.75,
+            "Direction": "Long",
+            "RR": 35.75
+        },
+        "09:45:00",
+        false
+    ],
+    "11/7/2022": [
+        {
+            "Location": 10893.75,
+            "Direction": "Short",
+            "RR": 75.25
+        },
+        "14:15:00",
+        false
+    ],
+    "11/7/2023": [
+        {
+            "Location": 15234.5,
+            "Direction": "Short",
+            "RR": 53.0
+        },
+        "09:55:00",
+        false
+    ],
+    "11/8/2021": [
+        {
+            "Location": 16376.75,
+            "Direction": "Long",
+            "RR": 45.0
+        },
+        "09:50:00",
+        false
+    ],
+    "11/8/2022": [
+        {
+            "Location": 11031.0,
+            "Direction": "Short",
+            "RR": 52.25
+        },
+        "09:50:00",
+        false
+    ],
+    "11/8/2023": [
+        {
+            "Location": 15411.0,
+            "Direction": "Long",
+            "RR": 37.25
+        },
+        "10:00:00",
+        false
+    ],
+    "11/9/2021": [
+        {
+            "Location": 16361.5,
+            "Direction": "Short",
+            "RR": 30.5
+        },
+        "09:45:00",
+        true
+    ],
+    "11/9/2022": [
+        {
+            "Location": 11019.0,
+            "Direction": "Long",
+            "RR": 50.25
+        },
+        "09:55:00",
+        false
+    ],
+    "11/9/2023": [
+        {
+            "Location": 15381.0,
+            "Direction": "Short",
+            "RR": 38.75
+        },
+        "09:55:00",
+        false
+    ],
+    "12/1/2021": [
+        {
+            "Location": 16282.0,
+            "Direction": "Short",
+            "RR": 72.0
+        },
+        "10:00:00",
+        false
+    ],
+    "12/1/2022": [
+        {
+            "Location": 12081.0,
+            "Direction": "Long",
+            "RR": 49.75
+        },
+        "09:55:00",
+        true
+    ],
+    "12/1/2023": [
+        {
+            "Location": 15885.5,
+            "Direction": "Short",
+            "RR": 50.5
+        },
+        "09:40:00",
+        false
+    ],
+    "12/10/2021": [
+        {
+            "Location": 16318.0,
+            "Direction": "Long",
+            "RR": 62.75
+        },
+        "09:40:00",
+        false
+    ],
+    "12/11/2023": [
+        {
+            "Location": 16139.0,
+            "Direction": "Long",
+            "RR": 70.5
+        },
+        "13:00:00",
+        true
+    ],
+    "12/12/2022": [
+        {
+            "Location": 11569.0,
+            "Direction": "Short",
+            "RR": 29.5
+        },
+        "09:45:00",
+        false
+    ],
+    "12/12/2023": [
+        {
+            "Location": 16408.5,
+            "Direction": "Short",
+            "RR": 40.5
+        },
+        "09:55:00",
+        false
+    ],
+    "12/13/2021": [
+        {
+            "Location": 16279.75,
+            "Direction": "Short",
+            "RR": 57.5
+        },
+        "10:20:00",
+        true
+    ],
+    "12/13/2022": [
+        {
+            "Location": 12094.5,
+            "Direction": "Short",
+            "RR": 82.0
+        },
+        "09:45:00",
+        false
+    ],
+    "12/13/2023": [
+        {
+            "Location": 16644.25,
+            "Direction": "Long",
+            "RR": 38.5
+        },
+        "09:55:00",
+        false
+    ],
+    "12/14/2021": [
+        {
+            "Location": 15933.5,
+            "Direction": "Long",
+            "RR": 77.25
+        },
+        "10:15:00",
+        false
+    ],
+    "12/14/2022": [
+        {
+            "Location": 11988.25,
+            "Direction": "Long",
+            "RR": 58.5
+        },
+        "11:00:00",
+        true
+    ],
+    "12/14/2023": [
+        {
+            "Location": 16857.75,
+            "Direction": "Long",
+            "RR": 46.5
+        },
+        "10:05:00",
+        false
+    ],
+    "12/15/2021": [
+        {
+            "Location": 15865.0,
+            "Direction": "Short",
+            "RR": 63.0
+        },
+        "11:30:00",
+        true
+    ],
+    "12/15/2022": [
+        {
+            "Location": 11630.5,
+            "Direction": "Short",
+            "RR": 85.25
+        },
+        "10:00:00",
+        true
+    ],
+    "12/15/2023": [
+        {
+            "Location": 16818.5,
+            "Direction": "Long",
+            "RR": 38.75
+        },
+        "10:20:00",
+        true
+    ],
+    "12/16/2021": [
+        {
+            "Location": 16333.0,
+            "Direction": "Long",
+            "RR": 50.0
+        },
+        "09:40:00",
+        false
+    ],
+    "12/16/2022": [
+        {
+            "Location": 11406.5,
+            "Direction": "Short",
+            "RR": 51.5
+        },
+        "09:45:00",
+        false
+    ],
+    "12/17/2021": [
+        {
+            "Location": 15688.75,
+            "Direction": "Short",
+            "RR": 102.75
+        },
+        "09:45:00",
+        false
+    ],
+    "12/18/2023": [
+        {
+            "Location": 16871.5,
+            "Direction": "Long",
+            "RR": 39.25
+        },
+        "11:40:00",
+        true
+    ],
+    "12/19/2022": [
+        {
+            "Location": 11287.0,
+            "Direction": "Short",
+            "RR": 72.25
+        },
+        "11:00:00",
+        true
+    ],
+    "12/19/2023": null,
+    "12/2/2021": [
+        {
+            "Location": 15873.75,
+            "Direction": "Long",
+            "RR": 85.5
+        },
+        "09:40:00",
+        true
+    ],
+    "12/2/2022": [
+        {
+            "Location": 11844.0,
+            "Direction": "Short",
+            "RR": 71.75
+        },
+        "10:10:00",
+        false
+    ],
+    "12/20/2021": [
+        {
+            "Location": 15606.0,
+            "Direction": "Long",
+            "RR": 63.25
+        },
+        "10:55:00",
+        false
+    ],
+    "12/20/2022": [
+        {
+            "Location": 11105.0,
+            "Direction": "Short",
+            "RR": 46.75
+        },
+        "09:55:00",
+        false
+    ],
+    "12/20/2023": [
+        {
+            "Location": 16994.5,
+            "Direction": "Long",
+            "RR": 23.75
+        },
+        "09:40:00",
+        true
+    ],
+    "12/21/2021": [
+        {
+            "Location": 15751.25,
+            "Direction": "Short",
+            "RR": 47.25
+        },
+        "09:45:00",
+        true
+    ],
+    "12/21/2022": [
+        {
+            "Location": 11230.25,
+            "Direction": "Long",
+            "RR": 46.25
+        },
+        "10:05:00",
+        true
+    ],
+    "12/21/2023": [
+        {
+            "Location": 16910.75,
+            "Direction": "Short",
+            "RR": 48.25
+        },
+        "10:05:00",
+        true
+    ],
+    "12/22/2021": [
+        {
+            "Location": 15970.75,
+            "Direction": "Long",
+            "RR": 37.75
+        },
+        "09:40:00",
+        true
+    ],
+    "12/22/2022": [
+        {
+            "Location": 11136.75,
+            "Direction": "Short",
+            "RR": 71.75
+        },
+        "10:05:00",
+        true
+    ],
+    "12/22/2023": [
+        {
+            "Location": 16994.25,
+            "Direction": "Short",
+            "RR": 28.0
+        },
+        "09:40:00",
+        false
+    ],
+    "12/23/2021": [
+        {
+            "Location": 16218.5,
+            "Direction": "Long",
+            "RR": 42.25
+        },
+        "10:10:00",
+        true
+    ],
+    "12/23/2022": [
+        {
+            "Location": 10979.75,
+            "Direction": "Short",
+            "RR": 71.25
+        },
+        "10:25:00",
+        false
+    ],
+    "12/26/2023": [
+        {
+            "Location": 17032.75,
+            "Direction": "Long",
+            "RR": 27.5
+        },
+        "10:40:00",
+        true
+    ],
+    "12/27/2021": [
+        {
+            "Location": 16415.75,
+            "Direction": "Long",
+            "RR": 71.5
+        },
+        "10:20:00",
+        true
+    ],
+    "12/27/2022": [
+        {
+            "Location": 11011.0,
+            "Direction": "Short",
+            "RR": 45.25
+        },
+        "09:40:00",
+        true
+    ],
+    "12/27/2023": [
+        {
+            "Location": 17122.0,
+            "Direction": "Long",
+            "RR": 30.5
+        },
+        "10:10:00",
+        false
+    ],
+    "12/28/2021": [
+        {
+            "Location": 16557.25,
+            "Direction": "Short",
+            "RR": 51.5
+        },
+        "10:15:00",
+        true
+    ],
+    "12/28/2022": [
+        {
+            "Location": 10977.0,
+            "Direction": "Long",
+            "RR": 115.5
+        },
+        "10:55:00",
+        false
+    ],
+    "12/28/2023": [
+        {
+            "Location": 17123.5,
+            "Direction": "Short",
+            "RR": 35.75
+        },
+        "15:50:00",
+        true
+    ],
+    "12/29/2021": [
+        {
+            "Location": 16545.25,
+            "Direction": "Long",
+            "RR": 53.5
+        },
+        "09:45:00",
+        false
+    ],
+    "12/29/2022": [
+        {
+            "Location": 10914.0,
+            "Direction": "Long",
+            "RR": 57.75
+        },
+        "09:50:00",
+        true
+    ],
+    "12/29/2023": [
+        {
+            "Location": 17081.0,
+            "Direction": "Short",
+            "RR": 19.25
+        },
+        "09:45:00",
+        false
+    ],
+    "12/3/2021": [
+        {
+            "Location": 16011.25,
+            "Direction": "Short",
+            "RR": 79.5
+        },
+        "09:40:00",
+        true
+    ],
+    "12/30/2021": [
+        {
+            "Location": 16510.0,
+            "Direction": "Long",
+            "RR": 47.75
+        },
+        "09:40:00",
+        false
+    ],
+    "12/30/2022": [
+        {
+            "Location": 10885.0,
+            "Direction": "Short",
+            "RR": 63.0
+        },
+        "10:45:00",
+        false
+    ],
+    "12/31/2021": [
+        {
+            "Location": 16460.0,
+            "Direction": "Long",
+            "RR": 54.25
+        },
+        "09:45:00",
+        false
+    ],
+    "12/4/2023": [
+        {
+            "Location": 15841.25,
+            "Direction": "Short",
+            "RR": 35.5
+        },
+        "10:15:00",
+        true
+    ],
+    "12/5/2022": [
+        {
+            "Location": 11947.75,
+            "Direction": "Long",
+            "RR": 36.25
+        },
+        "10:00:00",
+        false
+    ],
+    "12/5/2023": [
+        {
+            "Location": 15810.25,
+            "Direction": "Long",
+            "RR": 27.25
+        },
+        "09:40:00",
+        true
+    ],
+    "12/6/2021": [
+        {
+            "Location": 15625.0,
+            "Direction": "Short",
+            "RR": 135.75
+        },
+        "10:15:00",
+        false
+    ],
+    "12/6/2022": [
+        {
+            "Location": 11768.75,
+            "Direction": "Short",
+            "RR": 37.25
+        },
+        "09:40:00",
+        true
+    ],
+    "12/6/2023": [
+        {
+            "Location": 15965.5,
+            "Direction": "Short",
+            "RR": 72.5
+        },
+        "10:20:00",
+        true
+    ],
+    "12/7/2021": [
+        {
+            "Location": 16161.5,
+            "Direction": "Long",
+            "RR": 42.75
+        },
+        "09:50:00",
+        true
+    ],
+    "12/7/2022": [
+        {
+            "Location": 11558.25,
+            "Direction": "Long",
+            "RR": 63.25
+        },
+        "09:45:00",
+        false
+    ],
+    "12/7/2023": [
+        {
+            "Location": 15968.5,
+            "Direction": "Long",
+            "RR": 61.75
+        },
+        "09:50:00",
+        false
+    ],
+    "12/8/2021": [
+        {
+            "Location": 16253.5,
+            "Direction": "Short",
+            "RR": 80.25
+        },
+        "09:45:00",
+        false
+    ],
+    "12/8/2022": [
+        {
+            "Location": 11514.0,
+            "Direction": "Short",
+            "RR": 58.75
+        },
+        "09:55:00",
+        false
+    ],
+    "12/8/2023": [
+        {
+            "Location": 15995.0,
+            "Direction": "Long",
+            "RR": 48.0
+        },
+        "10:00:00",
+        true
+    ],
+    "12/9/2021": [
+        {
+            "Location": 16390.25,
+            "Direction": "Long",
+            "RR": 55.5
+        },
+        "09:55:00",
+        false
+    ],
+    "12/9/2022": [
+        {
+            "Location": 11618.0,
+            "Direction": "Long",
+            "RR": 68.25
+        },
+        "10:55:00",
+        true
+    ],
+    "2/1/2022": [
+        {
+            "Location": 14865.25,
+            "Direction": "Short",
+            "RR": 87.0
+        },
+        "10:00:00",
+        true
+    ],
+    "2/1/2023": [
+        {
+            "Location": 12104.5,
+            "Direction": "Short",
+            "RR": 51.75
+        },
+        "09:55:00",
+        false
+    ],
+    "2/1/2024": [
+        {
+            "Location": 17334.5,
+            "Direction": "Long",
+            "RR": 40.5
+        },
+        "09:55:00",
+        false
+    ],
+    "2/10/2022": [
+        {
+            "Location": 14793.25,
+            "Direction": "Long",
+            "RR": 58.5
+        },
+        "09:40:00",
+        true
+    ],
+    "2/10/2023": [
+        {
+            "Location": 12380.5,
+            "Direction": "Long",
+            "RR": 50.5
+        },
+        "09:40:00",
+        false
+    ],
+    "2/11/2022": [
+        {
+            "Location": 14697.75,
+            "Direction": "Short",
+            "RR": 52.5
+        },
+        "09:45:00",
+        false
+    ],
+    "2/12/2024": [
+        {
+            "Location": 18050.0,
+            "Direction": "Long",
+            "RR": 43.0
+        },
+        "11:25:00",
+        true
+    ],
+    "2/13/2023": [
+        {
+            "Location": 12365.5,
+            "Direction": "Short",
+            "RR": 44.75
+        },
+        "09:40:00",
+        false
+    ],
+    "2/13/2024": [
+        {
+            "Location": 17638.25,
+            "Direction": "Long",
+            "RR": 51.75
+        },
+        "10:20:00",
+        true
+    ],
+    "2/14/2022": [
+        {
+            "Location": 14262.5,
+            "Direction": "Long",
+            "RR": 80.75
+        },
+        "11:15:00",
+        true
+    ],
+    "2/14/2023": [
+        {
+            "Location": 12479.25,
+            "Direction": "Long",
+            "RR": 89.0
+        },
+        "09:55:00",
+        true
+    ],
+    "2/14/2024": [
+        {
+            "Location": 17783.75,
+            "Direction": "Short",
+            "RR": 35.5
+        },
+        "09:40:00",
+        true
+    ],
+    "2/15/2022": [
+        {
+            "Location": 14508.0,
+            "Direction": "Long",
+            "RR": 61.75
+        },
+        "09:50:00",
+        false
+    ],
+    "2/15/2023": [
+        {
+            "Location": 12605.75,
+            "Direction": "Long",
+            "RR": 53.75
+        },
+        "09:50:00",
+        false
+    ],
+    "2/15/2024": [
+        {
+            "Location": 17870.75,
+            "Direction": "Short",
+            "RR": 32.75
+        },
+        "09:50:00",
+        true
+    ],
+    "2/16/2022": [
+        {
+            "Location": 14469.75,
+            "Direction": "Short",
+            "RR": 47.5
+        },
+        "09:50:00",
+        true
+    ],
+    "2/16/2023": [
+        {
+            "Location": 12522.25,
+            "Direction": "Short",
+            "RR": 35.0
+        },
+        "09:40:00",
+        false
+    ],
+    "2/16/2024": [
+        {
+            "Location": 17886.5,
+            "Direction": "Short",
+            "RR": 43.75
+        },
+        "09:50:00",
+        true
+    ],
+    "2/17/2022": [
+        {
+            "Location": 14484.75,
+            "Direction": "Long",
+            "RR": 35.75
+        },
+        "09:45:00",
+        false
+    ],
+    "2/17/2023": [
+        {
+            "Location": 12417.25,
+            "Direction": "Long",
+            "RR": 44.5
+        },
+        "09:40:00",
+        false
+    ],
+    "2/18/2022": [
+        {
+            "Location": 14149.25,
+            "Direction": "Short",
+            "RR": 69.25
+        },
+        "09:55:00",
+        false
+    ],
+    "2/19/2024": [
+        {
+            "Location": 17801.75,
+            "Direction": "Long",
+            "RR": 17.0
+        },
+        "10:15:00",
+        false
+    ],
+    "2/2/2022": [
+        {
+            "Location": 15172.5,
+            "Direction": "Long",
+            "RR": 80.25
+        },
+        "09:40:00",
+        false
+    ],
+    "2/2/2023": [
+        {
+            "Location": 12677.75,
+            "Direction": "Short",
+            "RR": 54.5
+        },
+        "09:40:00",
+        false
+    ],
+    "2/2/2024": [
+        {
+            "Location": 17521.5,
+            "Direction": "Long",
+            "RR": 56.25
+        },
+        "09:40:00",
+        true
+    ],
+    "2/20/2023": [
+        {
+            "Location": 12385.75,
+            "Direction": "Short",
+            "RR": 10.25
+        },
+        "10:10:00",
+        true
+    ],
+    "2/20/2024": [
+        {
+            "Location": 17649.25,
+            "Direction": "Short",
+            "RR": 75.0
+        },
+        "09:40:00",
+        true
+    ],
+    "2/21/2022": [
+        {
+            "Location": 13860.5,
+            "Direction": "Short",
+            "RR": 23.5
+        },
+        "09:40:00",
+        true
+    ],
+    "2/21/2023": [
+        {
+            "Location": 12252.5,
+            "Direction": "Long",
+            "RR": 32.25
+        },
+        "09:40:00",
+        true
+    ],
+    "2/21/2024": [
+        {
+            "Location": 17463.75,
+            "Direction": "Short",
+            "RR": 48.25
+        },
+        "10:00:00",
+        false
+    ],
+    "2/22/2022": [
+        {
+            "Location": 13870.0,
+            "Direction": "Short",
+            "RR": 63.5
+        },
+        "09:40:00",
+        false
+    ],
+    "2/22/2023": [
+        {
+            "Location": 12154.0,
+            "Direction": "Long",
+            "RR": 38.75
+        },
+        "10:00:00",
+        false
+    ],
+    "2/22/2024": [
+        {
+            "Location": 17919.75,
+            "Direction": "Long",
+            "RR": 56.0
+        },
+        "11:15:00",
+        true
+    ],
+    "2/23/2022": [
+        {
+            "Location": 14026.75,
+            "Direction": "Long",
+            "RR": 50.25
+        },
+        "09:40:00",
+        false
+    ],
+    "2/23/2023": [
+        {
+            "Location": 12226.5,
+            "Direction": "Short",
+            "RR": 33.5
+        },
+        "10:05:00",
+        true
+    ],
+    "2/23/2024": [
+        {
+            "Location": 18140.25,
+            "Direction": "Long",
+            "RR": 43.5
+        },
+        "09:55:00",
+        false
+    ],
+    "2/24/2022": [
+        {
+            "Location": 13216.0,
+            "Direction": "Long",
+            "RR": 158.25
+        },
+        "10:10:00",
+        true
+    ],
+    "2/24/2023": [
+        {
+            "Location": 12020.75,
+            "Direction": "Long",
+            "RR": 40.0
+        },
+        "09:45:00",
+        false
+    ],
+    "2/25/2022": [
+        {
+            "Location": 14001.75,
+            "Direction": "Long",
+            "RR": 82.5
+        },
+        "09:40:00",
+        false
+    ],
+    "2/26/2024": [
+        {
+            "Location": 18009.5,
+            "Direction": "Short",
+            "RR": 41.5
+        },
+        "09:45:00",
+        true
+    ],
+    "2/27/2023": [
+        {
+            "Location": 12116.0,
+            "Direction": "Short",
+            "RR": 27.5
+        },
+        "09:55:00",
+        false
+    ],
+    "2/27/2024": [
+        {
+            "Location": 17997.75,
+            "Direction": "Short",
+            "RR": 29.75
+        },
+        "09:40:00",
+        true
+    ],
+    "2/28/2022": [
+        {
+            "Location": 14108.0,
+            "Direction": "Long",
+            "RR": 75.0
+        },
+        "09:40:00",
+        false
+    ],
+    "2/28/2023": [
+        {
+            "Location": 12071.0,
+            "Direction": "Long",
+            "RR": 29.75
+        },
+        "09:45:00",
+        true
+    ],
+    "2/28/2024": [
+        {
+            "Location": 17943.75,
+            "Direction": "Long",
+            "RR": 42.75
+        },
+        "09:45:00",
+        false
+    ],
+    "2/29/2024": [
+        {
+            "Location": 18067.25,
+            "Direction": "Long",
+            "RR": 46.75
+        },
+        "10:10:00",
+        false
+    ],
+    "2/3/2022": [
+        {
+            "Location": 14744.5,
+            "Direction": "Long",
+            "RR": 67.25
+        },
+        "10:20:00",
+        true
+    ],
+    "2/3/2023": [
+        {
+            "Location": 12637.75,
+            "Direction": "Long",
+            "RR": 79.5
+        },
+        "09:45:00",
+        true
+    ],
+    "2/4/2022": [
+        {
+            "Location": 14454.75,
+            "Direction": "Short",
+            "RR": 111.0
+        },
+        "09:40:00",
+        false
+    ],
+    "2/5/2024": [
+        {
+            "Location": 17707.5,
+            "Direction": "Short",
+            "RR": 30.0
+        },
+        "09:50:00",
+        true
+    ],
+    "2/6/2023": [
+        {
+            "Location": 12560.25,
+            "Direction": "Long",
+            "RR": 58.0
+        },
+        "10:20:00",
+        false
+    ],
+    "2/6/2024": [
+        {
+            "Location": 17720.75,
+            "Direction": "Short",
+            "RR": 47.25
+        },
+        "09:50:00",
+        true
+    ],
+    "2/7/2022": [
+        {
+            "Location": 14726.75,
+            "Direction": "Long",
+            "RR": 57.0
+        },
+        "09:50:00",
+        true
+    ],
+    "2/7/2023": [
+        {
+            "Location": 12523.5,
+            "Direction": "Long",
+            "RR": 29.25
+        },
+        "09:50:00",
+        true
+    ],
+    "2/7/2024": [
+        {
+            "Location": 17744.0,
+            "Direction": "Short",
+            "RR": 34.5
+        },
+        "10:10:00",
+        false
+    ],
+    "2/8/2022": [
+        {
+            "Location": 14564.25,
+            "Direction": "Long",
+            "RR": 63.0
+        },
+        "10:00:00",
+        false
+    ],
+    "2/8/2023": [
+        {
+            "Location": 12733.5,
+            "Direction": "Long",
+            "RR": 50.0
+        },
+        "09:50:00",
+        false
+    ],
+    "2/8/2024": [
+        {
+            "Location": 17845.5,
+            "Direction": "Long",
+            "RR": 26.5
+        },
+        "09:40:00",
+        false
+    ],
+    "2/9/2022": [
+        {
+            "Location": 14936.75,
+            "Direction": "Long",
+            "RR": 48.75
+        },
+        "09:45:00",
+        false
+    ],
+    "2/9/2023": [
+        {
+            "Location": 12679.5,
+            "Direction": "Short",
+            "RR": 49.25
+        },
+        "10:25:00",
+        true
+    ],
+    "2/9/2024": [
+        {
+            "Location": 17883.75,
+            "Direction": "Short",
+            "RR": 27.75
+        },
+        "09:45:00",
+        false
+    ],
+    "3/1/2022": [
+        {
+            "Location": 14221.0,
+            "Direction": "Long",
+            "RR": 67.5
+        },
+        "10:10:00",
+        false
+    ],
+    "3/1/2023": [
+        {
+            "Location": 12019.25,
+            "Direction": "Short",
+            "RR": 41.0
+        },
+        "09:45:00",
+        false
+    ],
+    "3/1/2024": [
+        {
+            "Location": 18144.75,
+            "Direction": "Long",
+            "RR": 51.25
+        },
+        "10:15:00",
+        true
+    ],
+    "3/10/2022": [
+        {
+            "Location": 13498.5,
+            "Direction": "Short",
+            "RR": 80.75
+        },
+        "09:55:00",
+        false
+    ],
+    "3/10/2023": [
+        {
+            "Location": 11960.75,
+            "Direction": "Short",
+            "RR": 67.0
+        },
+        "09:45:00",
+        true
+    ],
+    "3/11/2022": [
+        {
+            "Location": 13662.5,
+            "Direction": "Short",
+            "RR": 61.25
+        },
+        "09:50:00",
+        true
+    ],
+    "3/11/2024": [
+        {
+            "Location": 17989.75,
+            "Direction": "Long",
+            "RR": 83.0
+        },
+        "09:55:00",
+        false
+    ],
+    "3/12/2024": [
+        {
+            "Location": 18263.25,
+            "Direction": "Short",
+            "RR": 76.0
+        },
+        "09:45:00",
+        true
+    ],
+    "3/13/2023": [
+        {
+            "Location": 11753.0,
+            "Direction": "Short",
+            "RR": 63.5
+        },
+        "09:45:00",
+        false
+    ],
+    "3/13/2024": [
+        {
+            "Location": 18382.5,
+            "Direction": "Short",
+            "RR": 47.5
+        },
+        "10:00:00",
+        true
+    ],
+    "3/14/2022": [
+        {
+            "Location": 13221.75,
+            "Direction": "Short",
+            "RR": 69.5
+        },
+        "09:40:00",
+        false
+    ],
+    "3/14/2023": [
+        {
+            "Location": 12104.25,
+            "Direction": "Long",
+            "RR": 34.0
+        },
+        "09:40:00",
+        true
+    ],
+    "3/14/2024": [
+        {
+            "Location": 18384.25,
+            "Direction": "Long",
+            "RR": 48.75
+        },
+        "09:45:00",
+        false
+    ],
+    "3/15/2022": [
+        {
+            "Location": 13149.75,
+            "Direction": "Short",
+            "RR": 59.0
+        },
+        "09:45:00",
+        true
+    ],
+    "3/15/2023": [
+        {
+            "Location": 12270.25,
+            "Direction": "Long",
+            "RR": 72.5
+        },
+        "09:40:00",
+        false
+    ],
+    "3/15/2024": [
+        {
+            "Location": 18127.0,
+            "Direction": "Short",
+            "RR": 47.75
+        },
+        "09:45:00",
+        true
+    ],
+    "3/16/2022": [
+        {
+            "Location": 13658.0,
+            "Direction": "Long",
+            "RR": 46.0
+        },
+        "09:40:00",
+        true
+    ],
+    "3/16/2023": [
+        {
+            "Location": 12321.0,
+            "Direction": "Short",
+            "RR": 42.25
+        },
+        "09:40:00",
+        false
+    ],
+    "3/17/2022": [
+        {
+            "Location": 13889.25,
+            "Direction": "Long",
+            "RR": 70.5
+        },
+        "09:55:00",
+        true
+    ],
+    "3/17/2023": [
+        {
+            "Location": 12736.5,
+            "Direction": "Long",
+            "RR": 40.75
+        },
+        "10:00:00",
+        true
+    ],
+    "3/18/2022": [
+        {
+            "Location": 14065.0,
+            "Direction": "Long",
+            "RR": 70.25
+        },
+        "09:55:00",
+        true
+    ],
+    "3/18/2024": [
+        {
+            "Location": 18329.0,
+            "Direction": "Long",
+            "RR": 51.75
+        },
+        "10:25:00",
+        true
+    ],
+    "3/19/2024": [
+        {
+            "Location": 18102.75,
+            "Direction": "Short",
+            "RR": 50.0
+        },
+        "11:30:00",
+        false
+    ],
+    "3/2/2022": [
+        {
+            "Location": 14021.5,
+            "Direction": "Short",
+            "RR": 67.0
+        },
+        "09:40:00",
+        false
+    ],
+    "3/2/2023": [
+        {
+            "Location": 11883.25,
+            "Direction": "Long",
+            "RR": 37.25
+        },
+        "10:00:00",
+        true
+    ],
+    "3/20/2023": [
+        {
+            "Location": 12577.75,
+            "Direction": "Short",
+            "RR": 55.5
+        },
+        "10:45:00",
+        false
+    ],
+    "3/20/2024": [
+        {
+            "Location": 18301.75,
+            "Direction": "Short",
+            "RR": 33.0
+        },
+        "09:40:00",
+        true
+    ],
+    "3/21/2022": [
+        {
+            "Location": 14408.25,
+            "Direction": "Long",
+            "RR": 50.5
+        },
+        "09:40:00",
+        true
+    ],
+    "3/21/2023": [
+        {
+            "Location": 12773.75,
+            "Direction": "Short",
+            "RR": 41.75
+        },
+        "09:55:00",
+        false
+    ],
+    "3/21/2024": [
+        {
+            "Location": 18692.5,
+            "Direction": "Long",
+            "RR": 37.5
+        },
+        "09:45:00",
+        false
+    ],
+    "3/22/2022": [
+        {
+            "Location": 14433.75,
+            "Direction": "Long",
+            "RR": 60.0
+        },
+        "10:00:00",
+        true
+    ],
+    "3/22/2023": [
+        {
+            "Location": 12878.75,
+            "Direction": "Long",
+            "RR": 27.75
+        },
+        "10:20:00",
+        true
+    ],
+    "3/22/2024": [
+        {
+            "Location": 18545.25,
+            "Direction": "Long",
+            "RR": 28.0
+        },
+        "09:45:00",
+        false
+    ],
+    "3/23/2022": [
+        {
+            "Location": 14492.5,
+            "Direction": "Short",
+            "RR": 54.75
+        },
+        "10:10:00",
+        false
+    ],
+    "3/23/2023": [
+        {
+            "Location": 12888.5,
+            "Direction": "Long",
+            "RR": 35.25
+        },
+        "09:45:00",
+        false
+    ],
+    "3/24/2022": [
+        {
+            "Location": 14485.75,
+            "Direction": "Short",
+            "RR": 43.25
+        },
+        "09:40:00",
+        false
+    ],
+    "3/24/2023": [
+        {
+            "Location": 12784.75,
+            "Direction": "Short",
+            "RR": 60.25
+        },
+        "12:00:00",
+        false
+    ],
+    "3/25/2022": [
+        {
+            "Location": 14742.5,
+            "Direction": "Short",
+            "RR": 46.25
+        },
+        "10:00:00",
+        true
+    ],
+    "3/25/2024": [
+        {
+            "Location": 18441.75,
+            "Direction": "Short",
+            "RR": 39.25
+        },
+        "09:50:00",
+        false
+    ],
+    "3/26/2024": [
+        {
+            "Location": 18589.75,
+            "Direction": "Long",
+            "RR": 40.0
+        },
+        "10:25:00",
+        false
+    ],
+    "3/27/2023": [
+        {
+            "Location": 12891.0,
+            "Direction": "Short",
+            "RR": 35.0
+        },
+        "09:40:00",
+        false
+    ],
+    "3/27/2024": [
+        {
+            "Location": 18515.75,
+            "Direction": "Short",
+            "RR": 56.25
+        },
+        "09:50:00",
+        true
+    ],
+    "3/28/2022": [
+        {
+            "Location": 14815.0,
+            "Direction": "Long",
+            "RR": 65.5
+        },
+        "09:40:00",
+        true
+    ],
+    "3/28/2023": [
+        {
+            "Location": 12722.0,
+            "Direction": "Short",
+            "RR": 55.5
+        },
+        "10:30:00",
+        true
+    ],
+    "3/28/2024": [
+        {
+            "Location": 18504.75,
+            "Direction": "Long",
+            "RR": 47.75
+        },
+        "13:15:00",
+        false
+    ],
+    "3/29/2022": [
+        {
+            "Location": 15136.75,
+            "Direction": "Short",
+            "RR": 83.0
+        },
+        "10:10:00",
+        true
+    ],
+    "3/29/2023": [
+        {
+            "Location": 12914.25,
+            "Direction": "Long",
+            "RR": 33.5
+        },
+        "10:30:00",
+        false
+    ],
+    "3/3/2022": [
+        {
+            "Location": 14301.0,
+            "Direction": "Short",
+            "RR": 54.75
+        },
+        "09:45:00",
+        true
+    ],
+    "3/3/2023": [
+        {
+            "Location": 12139.25,
+            "Direction": "Long",
+            "RR": 28.0
+        },
+        "09:45:00",
+        true
+    ],
+    "3/30/2022": [
+        {
+            "Location": 15194.5,
+            "Direction": "Long",
+            "RR": 30.5
+        },
+        "09:40:00",
+        false
+    ],
+    "3/30/2023": [
+        {
+            "Location": 13044.0,
+            "Direction": "Short",
+            "RR": 35.75
+        },
+        "09:55:00",
+        false
+    ],
+    "3/31/2022": [
+        {
+            "Location": 15029.5,
+            "Direction": "Short",
+            "RR": 60.75
+        },
+        "10:00:00",
+        true
+    ],
+    "3/31/2023": [
+        {
+            "Location": 13124.25,
+            "Direction": "Long",
+            "RR": 44.25
+        },
+        "10:35:00",
+        true
+    ],
+    "3/4/2022": [
+        {
+            "Location": 13983.0,
+            "Direction": "Long",
+            "RR": 48.75
+        },
+        "09:40:00",
+        false
+    ],
+    "3/4/2024": [
+        {
+            "Location": 18287.75,
+            "Direction": "Short",
+            "RR": 47.25
+        },
+        "14:35:00",
+        false
+    ],
+    "3/5/2024": [
+        {
+            "Location": 18072.5,
+            "Direction": "Short",
+            "RR": 63.0
+        },
+        "10:05:00",
+        true
+    ],
+    "3/6/2023": [
+        {
+            "Location": 12357.5,
+            "Direction": "Short",
+            "RR": 39.25
+        },
+        "10:05:00",
+        false
+    ],
+    "3/6/2024": [
+        {
+            "Location": 18092.5,
+            "Direction": "Short",
+            "RR": 34.25
+        },
+        "09:50:00",
+        true
+    ],
+    "3/7/2022": [
+        {
+            "Location": 13808.5,
+            "Direction": "Short",
+            "RR": 71.5
+        },
+        "09:45:00",
+        true
+    ],
+    "3/7/2023": [
+        {
+            "Location": 12341.25,
+            "Direction": "Long",
+            "RR": 28.5
+        },
+        "10:00:00",
+        false
+    ],
+    "3/7/2024": [
+        {
+            "Location": 18194.5,
+            "Direction": "Long",
+            "RR": 28.5
+        },
+        "09:40:00",
+        false
+    ],
+    "3/8/2022": [
+        {
+            "Location": 13315.25,
+            "Direction": "Long",
+            "RR": 80.5
+        },
+        "09:40:00",
+        false
+    ],
+    "3/8/2023": [
+        {
+            "Location": 12178.0,
+            "Direction": "Short",
+            "RR": 38.25
+        },
+        "10:00:00",
+        true
+    ],
+    "3/8/2024": [
+        {
+            "Location": 18350.0,
+            "Direction": "Long",
+            "RR": 55.0
+        },
+        "10:05:00",
+        true
+    ],
+    "3/9/2022": [
+        {
+            "Location": 13548.25,
+            "Direction": "Short",
+            "RR": 73.0
+        },
+        "10:00:00",
+        false
+    ],
+    "3/9/2023": [
+        {
+            "Location": 12279.0,
+            "Direction": "Long",
+            "RR": 49.25
+        },
+        "09:50:00",
+        true
+    ],
+    "4/1/2022": [
+        {
+            "Location": 14884.25,
+            "Direction": "Short",
+            "RR": 48.0
+        },
+        "09:50:00",
+        true
+    ],
+    "4/1/2024": [
+        {
+            "Location": 18551.75,
+            "Direction": "Long",
+            "RR": 69.5
+        },
+        "10:35:00",
+        false
+    ],
+    "4/10/2023": [
+        {
+            "Location": 13018.25,
+            "Direction": "Short",
+            "RR": 32.25
+        },
+        "09:45:00",
+        true
+    ],
+    "4/10/2024": [
+        {
+            "Location": 18167.75,
+            "Direction": "Long",
+            "RR": 49.0
+        },
+        "09:45:00",
+        false
+    ],
+    "4/11/2022": [
+        {
+            "Location": 14115.75,
+            "Direction": "Short",
+            "RR": 62.5
+        },
+        "09:45:00",
+        false
+    ],
+    "4/11/2023": [
+        {
+            "Location": 13160.25,
+            "Direction": "Long",
+            "RR": 39.0
+        },
+        "09:40:00",
+        false
+    ],
+    "4/11/2024": [
+        {
+            "Location": 18225.0,
+            "Direction": "Short",
+            "RR": 49.25
+        },
+        "10:15:00",
+        true
+    ],
+    "4/12/2022": [
+        {
+            "Location": 14137.0,
+            "Direction": "Short",
+            "RR": 66.25
+        },
+        "09:45:00",
+        false
+    ],
+    "4/12/2023": [
+        {
+            "Location": 13135.75,
+            "Direction": "Short",
+            "RR": 45.0
+        },
+        "09:40:00",
+        true
+    ],
+    "4/12/2024": [
+        {
+            "Location": 18327.25,
+            "Direction": "Long",
+            "RR": 46.5
+        },
+        "10:05:00",
+        false
+    ],
+    "4/13/2022": [
+        {
+            "Location": 13967.25,
+            "Direction": "Long",
+            "RR": 46.5
+        },
+        "09:40:00",
+        true
+    ],
+    "4/13/2023": [
+        {
+            "Location": 13059.0,
+            "Direction": "Long",
+            "RR": 39.5
+        },
+        "10:05:00",
+        true
+    ],
+    "4/14/2022": [
+        {
+            "Location": 14231.75,
+            "Direction": "Long",
+            "RR": 36.75
+        },
+        "09:40:00",
+        false
+    ],
+    "4/14/2023": [
+        {
+            "Location": 13159.5,
+            "Direction": "Long",
+            "RR": 26.25
+        },
+        "09:40:00",
+        true
+    ],
+    "4/15/2024": [
+        {
+            "Location": 18268.25,
+            "Direction": "Short",
+            "RR": 71.0
+        },
+        "10:10:00",
+        true
+    ],
+    "4/16/2024": [
+        {
+            "Location": 17885.5,
+            "Direction": "Long",
+            "RR": 39.5
+        },
+        "09:40:00",
+        false
+    ],
+    "4/17/2023": [
+        {
+            "Location": 13180.75,
+            "Direction": "Long",
+            "RR": 35.25
+        },
+        "09:45:00",
+        false
+    ],
+    "4/17/2024": [
+        {
+            "Location": 17924.75,
+            "Direction": "Short",
+            "RR": 35.0
+        },
+        "09:50:00",
+        true
+    ],
+    "4/18/2022": [
+        {
+            "Location": 13931.25,
+            "Direction": "Long",
+            "RR": 82.75
+        },
+        "09:50:00",
+        false
+    ],
+    "4/18/2023": [
+        {
+            "Location": 13261.25,
+            "Direction": "Short",
+            "RR": 23.25
+        },
+        "09:45:00",
+        false
+    ],
+    "4/18/2024": [
+        {
+            "Location": 17624.0,
+            "Direction": "Short",
+            "RR": 55.0
+        },
+        "09:40:00",
+        true
+    ],
+    "4/19/2022": [
+        {
+            "Location": 13852.5,
+            "Direction": "Short",
+            "RR": 72.5
+        },
+        "09:40:00",
+        false
+    ],
+    "4/19/2023": [
+        {
+            "Location": 13123.75,
+            "Direction": "Long",
+            "RR": 43.5
+        },
+        "11:40:00",
+        true
+    ],
+    "4/19/2024": [
+        {
+            "Location": 17446.75,
+            "Direction": "Short",
+            "RR": 49.5
+        },
+        "09:40:00",
+        false
+    ],
+    "4/2/2024": [
+        {
+            "Location": 18260.5,
+            "Direction": "Short",
+            "RR": 31.75
+        },
+        "09:40:00",
+        true
+    ],
+    "4/20/2022": [
+        {
+            "Location": 14205.75,
+            "Direction": "Short",
+            "RR": 64.5
+        },
+        "09:40:00",
+        true
+    ],
+    "4/20/2023": [
+        {
+            "Location": 13087.5,
+            "Direction": "Long",
+            "RR": 41.5
+        },
+        "10:00:00",
+        true
+    ],
+    "4/21/2022": [
+        {
+            "Location": 14267.75,
+            "Direction": "Long",
+            "RR": 103.5
+        },
+        "10:05:00",
+        false
+    ],
+    "4/21/2023": [
+        {
+            "Location": 13043.0,
+            "Direction": "Short",
+            "RR": 31.25
+        },
+        "09:55:00",
+        true
+    ],
+    "4/22/2022": [
+        {
+            "Location": 13706.0,
+            "Direction": "Short",
+            "RR": 72.0
+        },
+        "09:40:00",
+        true
+    ],
+    "4/22/2024": [
+        {
+            "Location": 17267.0,
+            "Direction": "Short",
+            "RR": 40.75
+        },
+        "09:45:00",
+        false
+    ],
+    "4/23/2024": [
+        {
+            "Location": 17464.25,
+            "Direction": "Long",
+            "RR": 50.75
+        },
+        "09:45:00",
+        true
+    ],
+    "4/24/2023": [
+        {
+            "Location": 13092.0,
+            "Direction": "Long",
+            "RR": 38.25
+        },
+        "09:40:00",
+        true
+    ],
+    "4/24/2024": [
+        {
+            "Location": 17752.75,
+            "Direction": "Long",
+            "RR": 39.75
+        },
+        "09:50:00",
+        true
+    ],
+    "4/25/2022": [
+        {
+            "Location": 13321.5,
+            "Direction": "Long",
+            "RR": 59.75
+        },
+        "09:45:00",
+        false
+    ],
+    "4/25/2023": [
+        {
+            "Location": 12980.25,
+            "Direction": "Short",
+            "RR": 29.5
+        },
+        "09:40:00",
+        false
+    ],
+    "4/25/2024": [
+        {
+            "Location": 17359.0,
+            "Direction": "Long",
+            "RR": 51.0
+        },
+        "10:10:00",
+        true
+    ],
+    "4/26/2022": [
+        {
+            "Location": 13367.0,
+            "Direction": "Short",
+            "RR": 84.0
+        },
+        "09:50:00",
+        true
+    ],
+    "4/26/2023": [
+        {
+            "Location": 12913.0,
+            "Direction": "Short",
+            "RR": 44.25
+        },
+        "09:50:00",
+        false
+    ],
+    "4/26/2024": [
+        {
+            "Location": 17736.25,
+            "Direction": "Long",
+            "RR": 68.25
+        },
+        "10:00:00",
+        true
+    ],
+    "4/27/2022": [
+        {
+            "Location": 13118.5,
+            "Direction": "Long",
+            "RR": 108.75
+        },
+        "09:45:00",
+        true
+    ],
+    "4/27/2023": [
+        {
+            "Location": 13044.75,
+            "Direction": "Long",
+            "RR": 31.5
+        },
+        "10:10:00",
+        true
+    ],
+    "4/28/2022": [
+        {
+            "Location": 13196.5,
+            "Direction": "Short",
+            "RR": 84.5
+        },
+        "09:50:00",
+        true
+    ],
+    "4/28/2023": [
+        {
+            "Location": 13201.5,
+            "Direction": "Short",
+            "RR": 42.75
+        },
+        "10:05:00",
+        false
+    ],
+    "4/29/2022": [
+        {
+            "Location": 13353.75,
+            "Direction": "Long",
+            "RR": 127.25
+        },
+        "10:25:00",
+        false
+    ],
+    "4/29/2024": [
+        {
+            "Location": 17909.25,
+            "Direction": "Short",
+            "RR": 40.0
+        },
+        "09:40:00",
+        true
+    ],
+    "4/3/2023": [
+        {
+            "Location": 13241.5,
+            "Direction": "Long",
+            "RR": 43.5
+        },
+        "10:50:00",
+        false
+    ],
+    "4/3/2024": [
+        {
+            "Location": 18273.75,
+            "Direction": "Long",
+            "RR": 34.5
+        },
+        "10:00:00",
+        true
+    ],
+    "4/30/2024": [
+        {
+            "Location": 17858.0,
+            "Direction": "Long",
+            "RR": 34.25
+        },
+        "10:00:00",
+        true
+    ],
+    "4/4/2022": [
+        {
+            "Location": 14922.0,
+            "Direction": "Long",
+            "RR": 38.75
+        },
+        "09:40:00",
+        true
+    ],
+    "4/4/2023": [
+        {
+            "Location": 13272.0,
+            "Direction": "Short",
+            "RR": 24.5
+        },
+        "09:40:00",
+        true
+    ],
+    "4/4/2024": [
+        {
+            "Location": 18551.75,
+            "Direction": "Long",
+            "RR": 22.0
+        },
+        "09:45:00",
+        false
+    ],
+    "4/5/2022": [
+        {
+            "Location": 15095.5,
+            "Direction": "Short",
+            "RR": 41.0
+        },
+        "09:50:00",
+        true
+    ],
+    "4/5/2023": [
+        {
+            "Location": 13156.25,
+            "Direction": "Short",
+            "RR": 26.0
+        },
+        "09:45:00",
+        true
+    ],
+    "4/5/2024": [
+        {
+            "Location": 18123.25,
+            "Direction": "Short",
+            "RR": 48.0
+        },
+        "09:40:00",
+        false
+    ],
+    "4/6/2022": [
+        {
+            "Location": 14592.75,
+            "Direction": "Short",
+            "RR": 51.0
+        },
+        "09:40:00",
+        true
+    ],
+    "4/6/2023": [
+        {
+            "Location": 12966.75,
+            "Direction": "Short",
+            "RR": 47.0
+        },
+        "10:00:00",
+        false
+    ],
+    "4/7/2022": [
+        {
+            "Location": 14541.25,
+            "Direction": "Long",
+            "RR": 82.25
+        },
+        "10:40:00",
+        false
+    ],
+    "4/8/2022": [
+        {
+            "Location": 14402.25,
+            "Direction": "Short",
+            "RR": 74.75
+        },
+        "09:50:00",
+        true
+    ],
+    "4/8/2024": [
+        {
+            "Location": 18287.25,
+            "Direction": "Short",
+            "RR": 50.0
+        },
+        "10:25:00",
+        false
+    ],
+    "4/9/2024": [
+        {
+            "Location": 18351.5,
+            "Direction": "Short",
+            "RR": 53.75
+        },
+        "10:25:00",
+        true
+    ],
+    "5/1/2023": [
+        {
+            "Location": 13293.0,
+            "Direction": "Short",
+            "RR": 19.25
+        },
+        "09:40:00",
+        false
+    ],
+    "5/1/2024": [
+        {
+            "Location": 17468.25,
+            "Direction": "Short",
+            "RR": 49.5
+        },
+        "11:15:00",
+        true
+    ],
+    "5/10/2022": [
+        {
+            "Location": 12472.5,
+            "Direction": "Short",
+            "RR": 74.75
+        },
+        "09:40:00",
+        true
+    ],
+    "5/10/2023": [
+        {
+            "Location": 13416.0,
+            "Direction": "Long",
+            "RR": 51.25
+        },
+        "09:40:00",
+        false
+    ],
+    "5/10/2024": [
+        {
+            "Location": 18315.0,
+            "Direction": "Long",
+            "RR": 58.0
+        },
+        "10:15:00",
+        false
+    ],
+    "5/11/2022": [
+        {
+            "Location": 12181.25,
+            "Direction": "Short",
+            "RR": 139.5
+        },
+        "09:40:00",
+        false
+    ],
+    "5/11/2023": [
+        {
+            "Location": 13378.5,
+            "Direction": "Short",
+            "RR": 55.0
+        },
+        "11:25:00",
+        false
+    ],
+    "5/12/2022": [
+        {
+            "Location": 11732.75,
+            "Direction": "Short",
+            "RR": 142.5
+        },
+        "09:45:00",
+        false
+    ],
+    "5/12/2023": [
+        {
+            "Location": 13464.0,
+            "Direction": "Short",
+            "RR": 23.5
+        },
+        "09:45:00",
+        true
+    ],
+    "5/13/2022": [
+        {
+            "Location": 12090.0,
+            "Direction": "Short",
+            "RR": 75.0
+        },
+        "09:40:00",
+        false
+    ],
+    "5/13/2024": [
+        {
+            "Location": 18291.5,
+            "Direction": "Short",
+            "RR": 45.0
+        },
+        "13:10:00",
+        true
+    ],
+    "5/14/2024": [
+        {
+            "Location": 18293.75,
+            "Direction": "Long",
+            "RR": 28.5
+        },
+        "09:45:00",
+        true
+    ],
+    "5/15/2023": [
+        {
+            "Location": 13398.0,
+            "Direction": "Short",
+            "RR": 21.75
+        },
+        "09:45:00",
+        false
+    ],
+    "5/15/2024": [
+        {
+            "Location": 18528.75,
+            "Direction": "Long",
+            "RR": 36.5
+        },
+        "09:45:00",
+        false
+    ],
+    "5/16/2022": [
+        {
+            "Location": 12257.5,
+            "Direction": "Short",
+            "RR": 77.75
+        },
+        "09:40:00",
+        false
+    ],
+    "5/16/2023": [
+        {
+            "Location": 13472.25,
+            "Direction": "Long",
+            "RR": 38.0
+        },
+        "09:45:00",
+        true
+    ],
+    "5/16/2024": [
+        {
+            "Location": 18690.0,
+            "Direction": "Long",
+            "RR": 18.25
+        },
+        "09:50:00",
+        true
+    ],
+    "5/17/2022": [
+        {
+            "Location": 12519.25,
+            "Direction": "Long",
+            "RR": 63.0
+        },
+        "09:45:00",
+        false
+    ],
+    "5/17/2023": [
+        {
+            "Location": 13519.25,
+            "Direction": "Short",
+            "RR": 21.0
+        },
+        "09:50:00",
+        true
+    ],
+    "5/17/2024": [
+        {
+            "Location": 18664.75,
+            "Direction": "Long",
+            "RR": 24.75
+        },
+        "09:45:00",
+        false
+    ],
+    "5/18/2022": [
+        {
+            "Location": 12397.0,
+            "Direction": "Long",
+            "RR": 46.75
+        },
+        "09:40:00",
+        false
+    ],
+    "5/18/2023": [
+        {
+            "Location": 13681.75,
+            "Direction": "Long",
+            "RR": 29.25
+        },
+        "09:40:00",
+        true
+    ],
+    "5/19/2022": [
+        {
+            "Location": 11938.75,
+            "Direction": "Long",
+            "RR": 74.75
+        },
+        "09:45:00",
+        false
+    ],
+    "5/19/2023": [
+        {
+            "Location": 13906.0,
+            "Direction": "Long",
+            "RR": 17.5
+        },
+        "09:40:00",
+        true
+    ],
+    "5/2/2022": [
+        {
+            "Location": 12810.0,
+            "Direction": "Short",
+            "RR": 80.0
+        },
+        "09:40:00",
+        false
+    ],
+    "5/2/2023": [
+        {
+            "Location": 13309.5,
+            "Direction": "Long",
+            "RR": 26.0
+        },
+        "09:40:00",
+        false
+    ],
+    "5/2/2024": [
+        {
+            "Location": 17543.75,
+            "Direction": "Short",
+            "RR": 59.0
+        },
+        "09:50:00",
+        true
+    ],
+    "5/20/2022": [
+        {
+            "Location": 11991.25,
+            "Direction": "Short",
+            "RR": 62.0
+        },
+        "10:05:00",
+        true
+    ],
+    "5/20/2024": [
+        {
+            "Location": 18688.5,
+            "Direction": "Long",
+            "RR": 53.5
+        },
+        "09:50:00",
+        true
+    ],
+    "5/21/2024": [
+        {
+            "Location": 18710.75,
+            "Direction": "Long",
+            "RR": 33.0
+        },
+        "10:30:00",
+        true
+    ],
+    "5/22/2023": [
+        {
+            "Location": 13888.25,
+            "Direction": "Long",
+            "RR": 41.5
+        },
+        "09:45:00",
+        true
+    ],
+    "5/22/2024": [
+        {
+            "Location": 18805.25,
+            "Direction": "Short",
+            "RR": 21.25
+        },
+        "09:50:00",
+        false
+    ],
+    "5/23/2022": [
+        {
+            "Location": 11846.0,
+            "Direction": "Short",
+            "RR": 57.75
+        },
+        "09:40:00",
+        false
+    ],
+    "5/23/2023": [
+        {
+            "Location": 13863.5,
+            "Direction": "Long",
+            "RR": 41.5
+        },
+        "12:35:00",
+        false
+    ],
+    "5/23/2024": [
+        {
+            "Location": 18931.75,
+            "Direction": "Short",
+            "RR": 51.0
+        },
+        "09:50:00",
+        true
+    ],
+    "5/24/2022": [
+        {
+            "Location": 11784.25,
+            "Direction": "Short",
+            "RR": 63.5
+        },
+        "09:45:00",
+        true
+    ],
+    "5/24/2023": [
+        {
+            "Location": 13661.25,
+            "Direction": "Long",
+            "RR": 40.75
+        },
+        "10:00:00",
+        false
+    ],
+    "5/24/2024": [
+        {
+            "Location": 18775.5,
+            "Direction": "Long",
+            "RR": 42.75
+        },
+        "09:50:00",
+        false
+    ],
+    "5/25/2022": [
+        {
+            "Location": 11796.25,
+            "Direction": "Long",
+            "RR": 88.5
+        },
+        "10:25:00",
+        true
+    ],
+    "5/25/2023": [
+        {
+            "Location": 13886.75,
+            "Direction": "Short",
+            "RR": 79.25
+        },
+        "11:10:00",
+        false
+    ],
+    "5/26/2022": [
+        {
+            "Location": 11984.5,
+            "Direction": "Long",
+            "RR": 85.75
+        },
+        "09:45:00",
+        true
+    ],
+    "5/26/2023": [
+        {
+            "Location": 14047.25,
+            "Direction": "Long",
+            "RR": 32.75
+        },
+        "09:40:00",
+        true
+    ],
+    "5/27/2022": [
+        {
+            "Location": 12470.25,
+            "Direction": "Long",
+            "RR": 68.5
+        },
+        "10:00:00",
+        true
+    ],
+    "5/27/2024": [
+        {
+            "Location": 18903.0,
+            "Direction": "Long",
+            "RR": 25.25
+        },
+        "10:05:00",
+        false
+    ],
+    "5/28/2024": [
+        {
+            "Location": 18902.5,
+            "Direction": "Short",
+            "RR": 34.25
+        },
+        "09:45:00",
+        true
+    ],
+    "5/29/2023": [
+        {
+            "Location": 14368.0,
+            "Direction": "Short",
+            "RR": 11.0
+        },
+        "10:10:00",
+        false
+    ],
+    "5/29/2024": [
+        {
+            "Location": 18805.5,
+            "Direction": "Long",
+            "RR": 44.75
+        },
+        "10:20:00",
+        true
+    ],
+    "5/3/2022": [
+        {
+            "Location": 13002.75,
+            "Direction": "Short",
+            "RR": 77.5
+        },
+        "09:55:00",
+        false
+    ],
+    "5/3/2023": [
+        {
+            "Location": 13207.25,
+            "Direction": "Long",
+            "RR": 19.75
+        },
+        "09:45:00",
+        true
+    ],
+    "5/3/2024": [
+        {
+            "Location": 17965.75,
+            "Direction": "Long",
+            "RR": 46.75
+        },
+        "09:55:00",
+        true
+    ],
+    "5/30/2022": [
+        {
+            "Location": 12755.25,
+            "Direction": "Short",
+            "RR": 19.75
+        },
+        "09:55:00",
+        false
+    ],
+    "5/30/2023": [
+        {
+            "Location": 14528.75,
+            "Direction": "Long",
+            "RR": 53.0
+        },
+        "09:50:00",
+        false
+    ],
+    "5/30/2024": [
+        {
+            "Location": 18716.0,
+            "Direction": "Short",
+            "RR": 53.75
+        },
+        "10:40:00",
+        true
+    ],
+    "5/31/2022": [
+        {
+            "Location": 12579.75,
+            "Direction": "Short",
+            "RR": 108.5
+        },
+        "11:50:00",
+        false
+    ],
+    "5/31/2023": [
+        {
+            "Location": 14363.5,
+            "Direction": "Long",
+            "RR": 39.75
+        },
+        "09:45:00",
+        true
+    ],
+    "5/31/2024": [
+        {
+            "Location": 18615.75,
+            "Direction": "Long",
+            "RR": 40.25
+        },
+        "09:45:00",
+        false
+    ],
+    "5/4/2022": [
+        {
+            "Location": 13064.25,
+            "Direction": "Short",
+            "RR": 50.25
+        },
+        "10:00:00",
+        true
+    ],
+    "5/4/2023": [
+        {
+            "Location": 13045.75,
+            "Direction": "Short",
+            "RR": 40.5
+        },
+        "10:25:00",
+        true
+    ],
+    "5/5/2022": [
+        {
+            "Location": 13272.0,
+            "Direction": "Short",
+            "RR": 74.5
+        },
+        "09:50:00",
+        true
+    ],
+    "5/5/2023": [
+        {
+            "Location": 13159.75,
+            "Direction": "Long",
+            "RR": 35.75
+        },
+        "10:00:00",
+        true
+    ],
+    "5/6/2022": [
+        {
+            "Location": 12682.25,
+            "Direction": "Short",
+            "RR": 110.75
+        },
+        "09:45:00",
+        true
+    ],
+    "5/6/2024": [
+        {
+            "Location": 18076.75,
+            "Direction": "Long",
+            "RR": 34.25
+        },
+        "10:00:00",
+        true
+    ],
+    "5/7/2024": [
+        {
+            "Location": 18197.25,
+            "Direction": "Short",
+            "RR": 39.0
+        },
+        "10:55:00",
+        false
+    ],
+    "5/8/2023": [
+        {
+            "Location": 13291.75,
+            "Direction": "Short",
+            "RR": 18.75
+        },
+        "09:40:00",
+        true
+    ],
+    "5/8/2024": [
+        {
+            "Location": 18109.75,
+            "Direction": "Long",
+            "RR": 31.5
+        },
+        "09:45:00",
+        true
+    ],
+    "5/9/2022": [
+        {
+            "Location": 12503.0,
+            "Direction": "Long",
+            "RR": 81.75
+        },
+        "09:45:00",
+        false
+    ],
+    "5/9/2023": [
+        {
+            "Location": 13278.75,
+            "Direction": "Short",
+            "RR": 18.0
+        },
+        "09:45:00",
+        false
+    ],
+    "5/9/2024": [
+        {
+            "Location": 18172.75,
+            "Direction": "Short",
+            "RR": 31.5
+        },
+        "09:40:00",
+        true
+    ],
+    "6/1/2022": [
+        {
+            "Location": 12798.75,
+            "Direction": "Long",
+            "RR": 67.5
+        },
+        "10:05:00",
+        false
+    ],
+    "6/1/2023": [
+        {
+            "Location": 14271.5,
+            "Direction": "Short",
+            "RR": 34.5
+        },
+        "09:40:00",
+        false
+    ],
+    "6/10/2022": [
+        {
+            "Location": 11976.0,
+            "Direction": "Short",
+            "RR": 114.25
+        },
+        "10:20:00",
+        true
+    ],
+    "6/10/2024": [
+        {
+            "Location": 19017.25,
+            "Direction": "Long",
+            "RR": 39.75
+        },
+        "10:50:00",
+        true
+    ],
+    "6/11/2024": [
+        {
+            "Location": 19084.5,
+            "Direction": "Long",
+            "RR": 38.5
+        },
+        "09:45:00",
+        false
+    ],
+    "6/12/2023": [
+        {
+            "Location": 14600.25,
+            "Direction": "Short",
+            "RR": 37.5
+        },
+        "10:45:00",
+        false
+    ],
+    "6/12/2024": [
+        {
+            "Location": 19438.0,
+            "Direction": "Long",
+            "RR": 63.5
+        },
+        "09:50:00",
+        true
+    ],
+    "6/13/2022": [
+        {
+            "Location": 11553.5,
+            "Direction": "Long",
+            "RR": 90.0
+        },
+        "10:10:00",
+        false
+    ],
+    "6/13/2023": [
+        {
+            "Location": 15110.75,
+            "Direction": "Long",
+            "RR": 35.75
+        },
+        "09:45:00",
+        false
+    ],
+    "6/13/2024": [
+        {
+            "Location": 19648.25,
+            "Direction": "Long",
+            "RR": 20.5
+        },
+        "09:55:00",
+        false
+    ],
+    "6/14/2022": [
+        {
+            "Location": 11385.5,
+            "Direction": "Short",
+            "RR": 56.75
+        },
+        "09:40:00",
+        true
+    ],
+    "6/14/2023": [
+        {
+            "Location": 15066.75,
+            "Direction": "Short",
+            "RR": 35.0
+        },
+        "09:40:00",
+        false
+    ],
+    "6/14/2024": [
+        {
+            "Location": 19584.25,
+            "Direction": "Long",
+            "RR": 27.25
+        },
+        "09:45:00",
+        true
+    ],
+    "6/15/2022": [
+        {
+            "Location": 11466.25,
+            "Direction": "Short",
+            "RR": 53.5
+        },
+        "09:40:00",
+        false
+    ],
+    "6/15/2023": [
+        {
+            "Location": 15157.75,
+            "Direction": "Long",
+            "RR": 43.5
+        },
+        "09:45:00",
+        true
+    ],
+    "6/16/2022": [
+        {
+            "Location": 11277.25,
+            "Direction": "Short",
+            "RR": 72.75
+        },
+        "10:15:00",
+        true
+    ],
+    "6/16/2023": [
+        {
+            "Location": 15397.25,
+            "Direction": "Short",
+            "RR": 78.5
+        },
+        "14:55:00",
+        true
+    ],
+    "6/17/2022": [
+        {
+            "Location": 11282.0,
+            "Direction": "Long",
+            "RR": 97.75
+        },
+        "10:20:00",
+        false
+    ],
+    "6/17/2024": [
+        {
+            "Location": 19674.0,
+            "Direction": "Short",
+            "RR": 36.0
+        },
+        "10:10:00",
+        false
+    ],
+    "6/18/2024": [
+        {
+            "Location": 20213.25,
+            "Direction": "Long",
+            "RR": 31.25
+        },
+        "09:40:00",
+        false
+    ],
+    "6/19/2023": [
+        {
+            "Location": 15243.75,
+            "Direction": "Short",
+            "RR": 9.5
+        },
+        "10:10:00",
+        true
+    ],
+    "6/19/2024": [
+        {
+            "Location": 20242.25,
+            "Direction": "Short",
+            "RR": 10.5
+        },
+        "10:30:00",
+        true
+    ],
+    "6/2/2022": [
+        {
+            "Location": 12523.5,
+            "Direction": "Long",
+            "RR": 81.25
+        },
+        "10:10:00",
+        true
+    ],
+    "6/2/2023": [
+        {
+            "Location": 14622.25,
+            "Direction": "Long",
+            "RR": 79.5
+        },
+        "09:45:00",
+        false
+    ],
+    "6/20/2022": [
+        {
+            "Location": 11339.5,
+            "Direction": "Short",
+            "RR": 36.75
+        },
+        "10:00:00",
+        false
+    ],
+    "6/20/2023": [
+        {
+            "Location": 15274.0,
+            "Direction": "Long",
+            "RR": 69.75
+        },
+        "10:00:00",
+        false
+    ],
+    "6/20/2024": [
+        {
+            "Location": 20255.0,
+            "Direction": "Long",
+            "RR": 56.75
+        },
+        "10:05:00",
+        false
+    ],
+    "6/21/2022": [
+        {
+            "Location": 11529.0,
+            "Direction": "Long",
+            "RR": 53.5
+        },
+        "09:40:00",
+        true
+    ],
+    "6/21/2023": [
+        {
+            "Location": 15177.75,
+            "Direction": "Short",
+            "RR": 41.75
+        },
+        "09:55:00",
+        true
+    ],
+    "6/21/2024": [
+        {
+            "Location": 20022.25,
+            "Direction": "Long",
+            "RR": 38.75
+        },
+        "09:40:00",
+        false
+    ],
+    "6/22/2022": [
+        {
+            "Location": 11526.5,
+            "Direction": "Long",
+            "RR": 80.0
+        },
+        "09:55:00",
+        true
+    ],
+    "6/22/2023": [
+        {
+            "Location": 15014.25,
+            "Direction": "Long",
+            "RR": 50.5
+        },
+        "09:45:00",
+        true
+    ],
+    "6/23/2022": [
+        {
+            "Location": 11618.75,
+            "Direction": "Short",
+            "RR": 65.0
+        },
+        "09:50:00",
+        true
+    ],
+    "6/23/2023": [
+        {
+            "Location": 15084.25,
+            "Direction": "Long",
+            "RR": 50.25
+        },
+        "09:40:00",
+        false
+    ],
+    "6/24/2022": [
+        {
+            "Location": 11907.5,
+            "Direction": "Long",
+            "RR": 69.0
+        },
+        "09:50:00",
+        true
+    ],
+    "6/24/2024": [
+        {
+            "Location": 19908.75,
+            "Direction": "Short",
+            "RR": 56.75
+        },
+        "10:00:00",
+        false
+    ],
+    "6/25/2024": [
+        {
+            "Location": 19812.75,
+            "Direction": "Short",
+            "RR": 26.25
+        },
+        "09:40:00",
+        false
+    ],
+    "6/26/2023": [
+        {
+            "Location": 15064.75,
+            "Direction": "Long",
+            "RR": 40.5
+        },
+        "09:50:00",
+        true
+    ],
+    "6/26/2024": [
+        {
+            "Location": 19951.5,
+            "Direction": "Long",
+            "RR": 32.5
+        },
+        "09:50:00",
+        true
+    ],
+    "6/27/2022": [
+        {
+            "Location": 12113.75,
+            "Direction": "Short",
+            "RR": 98.5
+        },
+        "15:05:00",
+        true
+    ],
+    "6/27/2023": [
+        {
+            "Location": 14937.0,
+            "Direction": "Long",
+            "RR": 39.25
+        },
+        "10:00:00",
+        true
+    ],
+    "6/27/2024": [
+        {
+            "Location": 20055.25,
+            "Direction": "Long",
+            "RR": 65.75
+        },
+        "11:25:00",
+        false
+    ],
+    "6/28/2022": [
+        {
+            "Location": 12172.75,
+            "Direction": "Long",
+            "RR": 125.75
+        },
+        "10:05:00",
+        false
+    ],
+    "6/28/2023": [
+        {
+            "Location": 15069.0,
+            "Direction": "Long",
+            "RR": 43.75
+        },
+        "10:15:00",
+        true
+    ],
+    "6/28/2024": [
+        {
+            "Location": 20075.25,
+            "Direction": "Long",
+            "RR": 36.25
+        },
+        "09:45:00",
+        true
+    ],
+    "6/29/2022": [
+        {
+            "Location": 11579.0,
+            "Direction": "Short",
+            "RR": 111.5
+        },
+        "09:50:00",
+        false
+    ],
+    "6/29/2023": [
+        {
+            "Location": 15143.0,
+            "Direction": "Long",
+            "RR": 65.25
+        },
+        "10:05:00",
+        false
+    ],
+    "6/3/2022": [
+        {
+            "Location": 12641.5,
+            "Direction": "Short",
+            "RR": 75.75
+        },
+        "10:00:00",
+        false
+    ],
+    "6/3/2024": [
+        {
+            "Location": 18731.5,
+            "Direction": "Long",
+            "RR": 33.25
+        },
+        "09:50:00",
+        false
+    ],
+    "6/30/2022": [
+        {
+            "Location": 11504.0,
+            "Direction": "Short",
+            "RR": 84.25
+        },
+        "09:50:00",
+        true
+    ],
+    "6/30/2023": [
+        {
+            "Location": 15271.25,
+            "Direction": "Long",
+            "RR": 33.0
+        },
+        "09:45:00",
+        true
+    ],
+    "6/4/2024": [
+        {
+            "Location": 18586.5,
+            "Direction": "Short",
+            "RR": 64.5
+        },
+        "10:00:00",
+        false
+    ],
+    "6/5/2023": [
+        {
+            "Location": 14606.5,
+            "Direction": "Long",
+            "RR": 39.0
+        },
+        "09:40:00",
+        true
+    ],
+    "6/5/2024": [
+        {
+            "Location": 18821.75,
+            "Direction": "Short",
+            "RR": 31.25
+        },
+        "09:50:00",
+        false
+    ],
+    "6/6/2022": [
+        {
+            "Location": 12736.0,
+            "Direction": "Short",
+            "RR": 49.75
+        },
+        "09:45:00",
+        true
+    ],
+    "6/6/2023": [
+        {
+            "Location": 14515.75,
+            "Direction": "Short",
+            "RR": 46.0
+        },
+        "09:45:00",
+        false
+    ],
+    "6/6/2024": [
+        {
+            "Location": 19113.25,
+            "Direction": "Long",
+            "RR": 28.0
+        },
+        "09:45:00",
+        false
+    ],
+    "6/7/2022": [
+        {
+            "Location": 12485.25,
+            "Direction": "Long",
+            "RR": 73.0
+        },
+        "09:50:00",
+        true
+    ],
+    "6/7/2023": [
+        {
+            "Location": 14673.5,
+            "Direction": "Long",
+            "RR": 82.0
+        },
+        "10:00:00",
+        false
+    ],
+    "6/7/2024": [
+        {
+            "Location": 19041.0,
+            "Direction": "Long",
+            "RR": 48.75
+        },
+        "10:40:00",
+        true
+    ],
+    "6/8/2022": [
+        {
+            "Location": 12687.75,
+            "Direction": "Long",
+            "RR": 60.5
+        },
+        "09:45:00",
+        true
+    ],
+    "6/8/2023": [
+        {
+            "Location": 14375.0,
+            "Direction": "Long",
+            "RR": 44.75
+        },
+        "10:25:00",
+        true
+    ],
+    "6/9/2022": [
+        {
+            "Location": 12519.5,
+            "Direction": "Short",
+            "RR": 79.5
+        },
+        "09:50:00",
+        false
+    ],
+    "6/9/2023": [
+        {
+            "Location": 14591.0,
+            "Direction": "Long",
+            "RR": 34.25
+        },
+        "09:40:00",
+        true
+    ],
+    "7/1/2022": [
+        {
+            "Location": 11456.5,
+            "Direction": "Short",
+            "RR": 79.25
+        },
+        "09:45:00",
+        false
+    ],
+    "7/1/2024": [
+        {
+            "Location": 19927.5,
+            "Direction": "Short",
+            "RR": 58.5
+        },
+        "09:45:00",
+        true
+    ],
+    "7/10/2023": [
+        {
+            "Location": 15167.0,
+            "Direction": "Short",
+            "RR": 48.0
+        },
+        "09:50:00",
+        true
+    ],
+    "7/10/2024": [
+        {
+            "Location": 20735.75,
+            "Direction": "Short",
+            "RR": 32.5
+        },
+        "09:45:00",
+        false
+    ],
+    "7/11/2022": [
+        {
+            "Location": 12010.0,
+            "Direction": "Short",
+            "RR": 52.0
+        },
+        "09:40:00",
+        true
+    ],
+    "7/11/2023": [
+        {
+            "Location": 15214.25,
+            "Direction": "Long",
+            "RR": 30.75
+        },
+        "09:40:00",
+        false
+    ],
+    "7/11/2024": [
+        {
+            "Location": 20868.0,
+            "Direction": "Short",
+            "RR": 34.5
+        },
+        "09:50:00",
+        true
+    ],
+    "7/12/2022": [
+        {
+            "Location": 11985.25,
+            "Direction": "Long",
+            "RR": 57.0
+        },
+        "09:45:00",
+        false
+    ],
+    "7/12/2023": [
+        {
+            "Location": 15444.25,
+            "Direction": "Long",
+            "RR": 31.0
+        },
+        "09:40:00",
+        false
+    ],
+    "7/12/2024": [
+        {
+            "Location": 20427.5,
+            "Direction": "Short",
+            "RR": 43.75
+        },
+        "09:40:00",
+        false
+    ],
+    "7/13/2022": [
+        {
+            "Location": 11621.5,
+            "Direction": "Long",
+            "RR": 99.25
+        },
+        "10:30:00",
+        true
+    ],
+    "7/13/2023": [
+        {
+            "Location": 15597.25,
+            "Direction": "Long",
+            "RR": 45.25
+        },
+        "12:15:00",
+        true
+    ],
+    "7/14/2022": [
+        {
+            "Location": 11584.25,
+            "Direction": "Short",
+            "RR": 100.5
+        },
+        "11:40:00",
+        false
+    ],
+    "7/14/2023": [
+        {
+            "Location": 15767.5,
+            "Direction": "Long",
+            "RR": 46.25
+        },
+        "10:00:00",
+        true
+    ],
+    "7/15/2022": [
+        {
+            "Location": 11977.75,
+            "Direction": "Long",
+            "RR": 56.0
+        },
+        "09:40:00",
+        false
+    ],
+    "7/15/2024": [
+        {
+            "Location": 20640.5,
+            "Direction": "Long",
+            "RR": 40.0
+        },
+        "09:40:00",
+        false
+    ],
+    "7/16/2024": [
+        {
+            "Location": 20671.75,
+            "Direction": "Long",
+            "RR": 41.0
+        },
+        "09:40:00",
+        false
+    ],
+    "7/17/2023": [
+        {
+            "Location": 15765.0,
+            "Direction": "Long",
+            "RR": 39.0
+        },
+        "09:45:00",
+        false
+    ],
+    "7/17/2024": [
+        {
+            "Location": 20267.75,
+            "Direction": "Long",
+            "RR": 35.0
+        },
+        "09:40:00",
+        false
+    ],
+    "7/18/2022": [
+        {
+            "Location": 12158.25,
+            "Direction": "Long",
+            "RR": 68.75
+        },
+        "13:30:00",
+        false
+    ],
+    "7/18/2023": [
+        {
+            "Location": 15769.5,
+            "Direction": "Short",
+            "RR": 46.75
+        },
+        "11:40:00",
+        false
+    ],
+    "7/18/2024": [
+        {
+            "Location": 20093.0,
+            "Direction": "Short",
+            "RR": 56.5
+        },
+        "09:45:00",
+        true
+    ],
+    "7/19/2022": [
+        {
+            "Location": 12040.75,
+            "Direction": "Short",
+            "RR": 40.25
+        },
+        "09:45:00",
+        true
+    ],
+    "7/19/2023": [
+        {
+            "Location": 16035.0,
+            "Direction": "Long",
+            "RR": 57.75
+        },
+        "10:15:00",
+        false
+    ],
+    "7/19/2024": [
+        {
+            "Location": 19908.25,
+            "Direction": "Long",
+            "RR": 72.75
+        },
+        "10:25:00",
+        false
+    ],
+    "7/2/2024": [
+        {
+            "Location": 20038.0,
+            "Direction": "Long",
+            "RR": 61.5
+        },
+        "10:40:00",
+        true
+    ],
+    "7/20/2022": [
+        {
+            "Location": 12304.0,
+            "Direction": "Long",
+            "RR": 46.75
+        },
+        "09:50:00",
+        true
+    ],
+    "7/20/2023": [
+        {
+            "Location": 15885.75,
+            "Direction": "Long",
+            "RR": 54.25
+        },
+        "10:00:00",
+        false
+    ],
+    "7/21/2022": [
+        {
+            "Location": 12443.75,
+            "Direction": "Short",
+            "RR": 69.5
+        },
+        "09:50:00",
+        false
+    ],
+    "7/21/2023": [
+        {
+            "Location": 15656.5,
+            "Direction": "Short",
+            "RR": 63.0
+        },
+        "10:00:00",
+        true
+    ],
+    "7/22/2022": [
+        {
+            "Location": 12614.0,
+            "Direction": "Long",
+            "RR": 41.25
+        },
+        "09:45:00",
+        true
+    ],
+    "7/22/2024": [
+        {
+            "Location": 19959.5,
+            "Direction": "Long",
+            "RR": 77.0
+        },
+        "11:15:00",
+        false
+    ],
+    "7/23/2024": [
+        {
+            "Location": 19980.0,
+            "Direction": "Long",
+            "RR": 46.75
+        },
+        "09:40:00",
+        true
+    ],
+    "7/24/2023": [
+        {
+            "Location": 15573.75,
+            "Direction": "Short",
+            "RR": 45.25
+        },
+        "09:50:00",
+        true
+    ],
+    "7/24/2024": [
+        {
+            "Location": 19581.5,
+            "Direction": "Short",
+            "RR": 72.5
+        },
+        "09:55:00",
+        true
+    ],
+    "7/25/2022": [
+        {
+            "Location": 12407.75,
+            "Direction": "Short",
+            "RR": 36.5
+        },
+        "09:40:00",
+        true
+    ],
+    "7/25/2023": [
+        {
+            "Location": 15626.25,
+            "Direction": "Long",
+            "RR": 38.75
+        },
+        "09:55:00",
+        true
+    ],
+    "7/25/2024": [
+        {
+            "Location": 19138.5,
+            "Direction": "Short",
+            "RR": 88.5
+        },
+        "09:55:00",
+        true
+    ],
+    "7/26/2022": [
+        {
+            "Location": 12227.5,
+            "Direction": "Short",
+            "RR": 64.0
+        },
+        "10:30:00",
+        true
+    ],
+    "7/26/2023": [
+        {
+            "Location": 15569.25,
+            "Direction": "Short",
+            "RR": 70.25
+        },
+        "14:35:00",
+        false
+    ],
+    "7/26/2024": [
+        {
+            "Location": 19088.0,
+            "Direction": "Short",
+            "RR": 78.5
+        },
+        "10:00:00",
+        false
+    ],
+    "7/27/2022": [
+        {
+            "Location": 12326.75,
+            "Direction": "Long",
+            "RR": 50.5
+        },
+        "09:45:00",
+        true
+    ],
+    "7/27/2023": [
+        {
+            "Location": 15865.0,
+            "Direction": "Long",
+            "RR": 42.25
+        },
+        "10:20:00",
+        false
+    ],
+    "7/28/2022": [
+        {
+            "Location": 12592.25,
+            "Direction": "Short",
+            "RR": 62.0
+        },
+        "09:40:00",
+        true
+    ],
+    "7/28/2023": [
+        {
+            "Location": 15753.0,
+            "Direction": "Long",
+            "RR": 37.5
+        },
+        "09:40:00",
+        true
+    ],
+    "7/29/2022": [
+        {
+            "Location": 12772.25,
+            "Direction": "Short",
+            "RR": 49.25
+        },
+        "09:40:00",
+        false
+    ],
+    "7/29/2024": [
+        {
+            "Location": 19293.0,
+            "Direction": "Long",
+            "RR": 71.25
+        },
+        "09:45:00",
+        true
+    ],
+    "7/3/2023": [
+        {
+            "Location": 15342.0,
+            "Direction": "Short",
+            "RR": 26.75
+        },
+        "09:40:00",
+        false
+    ],
+    "7/3/2024": [
+        {
+            "Location": 20267.75,
+            "Direction": "Long",
+            "RR": 52.0
+        },
+        "10:55:00",
+        true
+    ],
+    "7/30/2024": [
+        {
+            "Location": 19299.0,
+            "Direction": "Long",
+            "RR": 44.0
+        },
+        "09:45:00",
+        false
+    ],
+    "7/31/2023": [
+        {
+            "Location": 15892.75,
+            "Direction": "Long",
+            "RR": 47.5
+        },
+        "09:55:00",
+        false
+    ],
+    "7/31/2024": [
+        {
+            "Location": 19390.75,
+            "Direction": "Long",
+            "RR": 80.25
+        },
+        "10:20:00",
+        true
+    ],
+    "7/4/2022": [
+        {
+            "Location": 11558.25,
+            "Direction": "Short",
+            "RR": 12.75
+        },
+        "09:40:00",
+        true
+    ],
+    "7/4/2023": [
+        {
+            "Location": 15367.75,
+            "Direction": "Long",
+            "RR": 5.0
+        },
+        "09:45:00",
+        false
+    ],
+    "7/4/2024": [
+        {
+            "Location": 20389.75,
+            "Direction": "Short",
+            "RR": 16.75
+        },
+        "10:15:00",
+        true
+    ],
+    "7/5/2022": [
+        {
+            "Location": 11466.0,
+            "Direction": "Long",
+            "RR": 77.0
+        },
+        "10:35:00",
+        true
+    ],
+    "7/5/2023": [
+        {
+            "Location": 15341.5,
+            "Direction": "Long",
+            "RR": 49.25
+        },
+        "09:45:00",
+        true
+    ],
+    "7/5/2024": [
+        {
+            "Location": 20478.0,
+            "Direction": "Long",
+            "RR": 38.0
+        },
+        "09:45:00",
+        false
+    ],
+    "7/6/2022": [
+        {
+            "Location": 11803.25,
+            "Direction": "Short",
+            "RR": 79.5
+        },
+        "14:05:00",
+        false
+    ],
+    "7/6/2023": [
+        {
+            "Location": 15152.75,
+            "Direction": "Short",
+            "RR": 61.75
+        },
+        "12:35:00",
+        false
+    ],
+    "7/7/2022": [
+        {
+            "Location": 11993.25,
+            "Direction": "Long",
+            "RR": 75.25
+        },
+        "10:50:00",
+        true
+    ],
+    "7/7/2023": [
+        {
+            "Location": 15199.75,
+            "Direction": "Short",
+            "RR": 43.0
+        },
+        "09:45:00",
+        false
+    ],
+    "7/8/2022": [
+        {
+            "Location": 12048.0,
+            "Direction": "Long",
+            "RR": 60.25
+        },
+        "09:50:00",
+        false
+    ],
+    "7/8/2024": [
+        {
+            "Location": 20615.0,
+            "Direction": "Short",
+            "RR": 30.0
+        },
+        "09:50:00",
+        false
+    ],
+    "7/9/2024": [
+        {
+            "Location": 20764.5,
+            "Direction": "Long",
+            "RR": 43.5
+        },
+        "09:40:00",
+        false
+    ],
+    "8/1/2022": [
+        {
+            "Location": 12910.75,
+            "Direction": "Long",
+            "RR": 59.25
+        },
+        "09:45:00",
+        true
+    ],
+    "8/1/2023": [
+        {
+            "Location": 15802.25,
+            "Direction": "Long",
+            "RR": 38.25
+        },
+        "10:10:00",
+        false
+    ],
+    "8/1/2024": [
+        {
+            "Location": 19562.75,
+            "Direction": "Long",
+            "RR": 49.5
+        },
+        "09:40:00",
+        true
+    ],
+    "8/10/2022": [
+        {
+            "Location": 13296.75,
+            "Direction": "Short",
+            "RR": 58.5
+        },
+        "10:20:00",
+        true
+    ],
+    "8/10/2023": [
+        {
+            "Location": 15331.0,
+            "Direction": "Long",
+            "RR": 58.0
+        },
+        "09:50:00",
+        true
+    ],
+    "8/11/2022": [
+        {
+            "Location": 13504.0,
+            "Direction": "Long",
+            "RR": 48.75
+        },
+        "10:10:00",
+        true
+    ],
+    "8/11/2023": [
+        {
+            "Location": 15092.25,
+            "Direction": "Long",
+            "RR": 35.25
+        },
+        "09:45:00",
+        false
+    ],
+    "8/12/2022": [
+        {
+            "Location": 13370.75,
+            "Direction": "Short",
+            "RR": 45.75
+        },
+        "09:40:00",
+        false
+    ],
+    "8/12/2024": [
+        {
+            "Location": 18670.25,
+            "Direction": "Long",
+            "RR": 36.75
+        },
+        "09:40:00",
+        false
+    ],
+    "8/13/2024": [
+        {
+            "Location": 18888.0,
+            "Direction": "Long",
+            "RR": 72.0
+        },
+        "11:05:00",
+        true
+    ],
+    "8/14/2023": [
+        {
+            "Location": 15078.5,
+            "Direction": "Long",
+            "RR": 43.75
+        },
+        "09:50:00",
+        true
+    ],
+    "8/14/2024": [
+        {
+            "Location": 19105.0,
+            "Direction": "Short",
+            "RR": 70.75
+        },
+        "09:50:00",
+        true
+    ],
+    "8/15/2022": [
+        {
+            "Location": 13601.0,
+            "Direction": "Long",
+            "RR": 67.0
+        },
+        "12:55:00",
+        true
+    ],
+    "8/15/2023": [
+        {
+            "Location": 15245.0,
+            "Direction": "Long",
+            "RR": 33.25
+        },
+        "09:40:00",
+        false
+    ],
+    "8/15/2024": [
+        {
+            "Location": 19381.75,
+            "Direction": "Long",
+            "RR": 45.75
+        },
+        "09:50:00",
+        true
+    ],
+    "8/16/2022": [
+        {
+            "Location": 13627.0,
+            "Direction": "Short",
+            "RR": 32.5
+        },
+        "09:50:00",
+        true
+    ],
+    "8/16/2023": [
+        {
+            "Location": 15090.75,
+            "Direction": "Long",
+            "RR": 40.0
+        },
+        "10:10:00",
+        true
+    ],
+    "8/16/2024": [
+        {
+            "Location": 19514.0,
+            "Direction": "Long",
+            "RR": 51.75
+        },
+        "10:15:00",
+        true
+    ],
+    "8/17/2022": [
+        {
+            "Location": 13542.25,
+            "Direction": "Long",
+            "RR": 30.0
+        },
+        "09:40:00",
+        false
+    ],
+    "8/17/2023": [
+        {
+            "Location": 14966.25,
+            "Direction": "Short",
+            "RR": 41.5
+        },
+        "09:50:00",
+        true
+    ],
+    "8/18/2022": [
+        {
+            "Location": 13438.5,
+            "Direction": "Short",
+            "RR": 59.75
+        },
+        "09:45:00",
+        false
+    ],
+    "8/18/2023": [
+        {
+            "Location": 14674.25,
+            "Direction": "Long",
+            "RR": 51.0
+        },
+        "10:00:00",
+        false
+    ],
+    "8/19/2022": [
+        {
+            "Location": 13388.25,
+            "Direction": "Short",
+            "RR": 37.25
+        },
+        "09:40:00",
+        true
+    ],
+    "8/19/2024": [
+        {
+            "Location": 19583.25,
+            "Direction": "Short",
+            "RR": 31.5
+        },
+        "09:40:00",
+        false
+    ],
+    "8/2/2022": [
+        {
+            "Location": 12917.75,
+            "Direction": "Long",
+            "RR": 65.0
+        },
+        "10:05:00",
+        false
+    ],
+    "8/2/2023": [
+        {
+            "Location": 15621.5,
+            "Direction": "Short",
+            "RR": 47.5
+        },
+        "10:05:00",
+        true
+    ],
+    "8/2/2024": [
+        {
+            "Location": 18654.75,
+            "Direction": "Long",
+            "RR": 113.0
+        },
+        "10:05:00",
+        false
+    ],
+    "8/20/2024": [
+        {
+            "Location": 19865.0,
+            "Direction": "Long",
+            "RR": 48.25
+        },
+        "09:55:00",
+        true
+    ],
+    "8/21/2023": [
+        {
+            "Location": 14848.5,
+            "Direction": "Long",
+            "RR": 43.25
+        },
+        "09:55:00",
+        true
+    ],
+    "8/21/2024": [
+        {
+            "Location": 19818.75,
+            "Direction": "Short",
+            "RR": 30.75
+        },
+        "09:40:00",
+        false
+    ],
+    "8/22/2022": [
+        {
+            "Location": 13035.5,
+            "Direction": "Short",
+            "RR": 57.0
+        },
+        "10:20:00",
+        true
+    ],
+    "8/22/2023": [
+        {
+            "Location": 15063.75,
+            "Direction": "Short",
+            "RR": 28.75
+        },
+        "09:40:00",
+        true
+    ],
+    "8/22/2024": [
+        {
+            "Location": 19986.75,
+            "Direction": "Short",
+            "RR": 38.75
+        },
+        "09:50:00",
+        true
+    ],
+    "8/23/2022": [
+        {
+            "Location": 12943.5,
+            "Direction": "Long",
+            "RR": 50.5
+        },
+        "09:40:00",
+        false
+    ],
+    "8/23/2023": [
+        {
+            "Location": 15038.0,
+            "Direction": "Long",
+            "RR": 38.75
+        },
+        "09:50:00",
+        true
+    ],
+    "8/23/2024": [
+        {
+            "Location": 19765.0,
+            "Direction": "Long",
+            "RR": 58.75
+        },
+        "10:05:00",
+        true
+    ],
+    "8/24/2022": [
+        {
+            "Location": 12856.5,
+            "Direction": "Short",
+            "RR": 50.5
+        },
+        "09:50:00",
+        false
+    ],
+    "8/24/2023": [
+        {
+            "Location": 15252.25,
+            "Direction": "Short",
+            "RR": 87.75
+        },
+        "10:05:00",
+        true
+    ],
+    "8/25/2022": [
+        {
+            "Location": 12973.25,
+            "Direction": "Short",
+            "RR": 41.25
+        },
+        "09:55:00",
+        false
+    ],
+    "8/25/2023": [
+        {
+            "Location": 14934.5,
+            "Direction": "Long",
+            "RR": 42.5
+        },
+        "10:00:00",
+        true
+    ],
+    "8/26/2022": [
+        {
+            "Location": 13157.5,
+            "Direction": "Long",
+            "RR": 41.75
+        },
+        "09:45:00",
+        false
+    ],
+    "8/26/2024": [
+        {
+            "Location": 19741.75,
+            "Direction": "Short",
+            "RR": 60.0
+        },
+        "10:05:00",
+        true
+    ],
+    "8/27/2024": [
+        {
+            "Location": 19493.0,
+            "Direction": "Short",
+            "RR": 46.5
+        },
+        "09:45:00",
+        true
+    ],
+    "8/28/2023": [
+        {
+            "Location": 15114.75,
+            "Direction": "Long",
+            "RR": 54.75
+        },
+        "09:40:00",
+        false
+    ],
+    "8/28/2024": [
+        {
+            "Location": 19620.25,
+            "Direction": "Short",
+            "RR": 36.5
+        },
+        "09:45:00",
+        true
+    ],
+    "8/29/2022": [
+        {
+            "Location": 12568.75,
+            "Direction": "Long",
+            "RR": 90.25
+        },
+        "10:50:00",
+        false
+    ],
+    "8/29/2023": [
+        {
+            "Location": 15112.5,
+            "Direction": "Long",
+            "RR": 50.0
+        },
+        "09:45:00",
+        true
+    ],
+    "8/29/2024": [
+        {
+            "Location": 19590.75,
+            "Direction": "Long",
+            "RR": 112.75
+        },
+        "14:30:00",
+        false
+    ],
+    "8/3/2022": [
+        {
+            "Location": 13058.75,
+            "Direction": "Long",
+            "RR": 69.5
+        },
+        "10:00:00",
+        true
+    ],
+    "8/3/2023": [
+        {
+            "Location": 15394.0,
+            "Direction": "Long",
+            "RR": 43.0
+        },
+        "09:45:00",
+        true
+    ],
+    "8/30/2022": [
+        {
+            "Location": 12538.5,
+            "Direction": "Short",
+            "RR": 49.0
+        },
+        "09:45:00",
+        true
+    ],
+    "8/30/2023": [
+        {
+            "Location": 15445.25,
+            "Direction": "Long",
+            "RR": 33.5
+        },
+        "09:40:00",
+        false
+    ],
+    "8/30/2024": [
+        {
+            "Location": 19515.25,
+            "Direction": "Short",
+            "RR": 62.25
+        },
+        "09:45:00",
+        false
+    ],
+    "8/31/2022": [
+        {
+            "Location": 12410.5,
+            "Direction": "Short",
+            "RR": 67.25
+        },
+        "09:40:00",
+        false
+    ],
+    "8/31/2023": null,
+    "8/4/2022": [
+        {
+            "Location": 13291.5,
+            "Direction": "Long",
+            "RR": 46.5
+        },
+        "09:45:00",
+        true
+    ],
+    "8/4/2023": [
+        {
+            "Location": 15558.75,
+            "Direction": "Long",
+            "RR": 62.5
+        },
+        "09:40:00",
+        false
+    ],
+    "8/5/2022": [
+        {
+            "Location": 13184.25,
+            "Direction": "Long",
+            "RR": 70.0
+        },
+        "10:10:00",
+        true
+    ],
+    "8/5/2024": [
+        {
+            "Location": 17709.25,
+            "Direction": "Long",
+            "RR": 200.25
+        },
+        "09:45:00",
+        true
+    ],
+    "8/6/2024": [
+        {
+            "Location": 18065.25,
+            "Direction": "Short",
+            "RR": 109.0
+        },
+        "10:00:00",
+        false
+    ],
+    "8/7/2023": [
+        {
+            "Location": 15412.75,
+            "Direction": "Short",
+            "RR": 60.75
+        },
+        "11:15:00",
+        true
+    ],
+    "8/7/2024": [
+        {
+            "Location": 18522.25,
+            "Direction": "Long",
+            "RR": 83.75
+        },
+        "10:15:00",
+        false
+    ],
+    "8/8/2022": [
+        {
+            "Location": 13319.5,
+            "Direction": "Long",
+            "RR": 87.75
+        },
+        "09:55:00",
+        true
+    ],
+    "8/8/2023": [
+        {
+            "Location": 15350.0,
+            "Direction": "Short",
+            "RR": 29.75
+        },
+        "09:40:00",
+        true
+    ],
+    "8/8/2024": [
+        {
+            "Location": 18175.75,
+            "Direction": "Short",
+            "RR": 67.5
+        },
+        "09:45:00",
+        true
+    ],
+    "8/9/2022": null,
+    "8/9/2023": [
+        {
+            "Location": 15336.25,
+            "Direction": "Short",
+            "RR": 32.5
+        },
+        "09:40:00",
+        true
+    ],
+    "8/9/2024": [
+        {
+            "Location": 18507.5,
+            "Direction": "Long",
+            "RR": 56.75
+        },
+        "09:40:00",
+        false
+    ],
+    "9/1/2022": [
+        {
+            "Location": 12192.0,
+            "Direction": "Long",
+            "RR": 51.75
+        },
+        "10:00:00",
+        false
+    ],
+    "9/1/2023": [
+        {
+            "Location": 15610.5,
+            "Direction": "Short",
+            "RR": 42.5
+        },
+        "09:40:00",
+        true
+    ],
+    "9/10/2024": [
+        {
+            "Location": 18747.25,
+            "Direction": "Short",
+            "RR": 74.75
+        },
+        "11:50:00",
+        true
+    ],
+    "9/11/2023": [
+        {
+            "Location": 15414.5,
+            "Direction": "Short",
+            "RR": 34.0
+        },
+        "09:40:00",
+        true
+    ],
+    "9/11/2024": [
+        {
+            "Location": 18843.75,
+            "Direction": "Short",
+            "RR": 63.0
+        },
+        "09:50:00",
+        true
+    ],
+    "9/12/2022": [
+        {
+            "Location": 12686.0,
+            "Direction": "Long",
+            "RR": 44.75
+        },
+        "09:55:00",
+        true
+    ],
+    "9/12/2023": [
+        {
+            "Location": 15625.75,
+            "Direction": "Long",
+            "RR": 40.5
+        },
+        "10:25:00",
+        false
+    ],
+    "9/12/2024": [
+        {
+            "Location": 19281.75,
+            "Direction": "Long",
+            "RR": 71.75
+        },
+        "09:45:00",
+        false
+    ],
+    "9/13/2022": [
+        {
+            "Location": 12361.5,
+            "Direction": "Short",
+            "RR": 65.75
+        },
+        "10:00:00",
+        true
+    ],
+    "9/13/2023": [
+        {
+            "Location": 15556.0,
+            "Direction": "Long",
+            "RR": 62.75
+        },
+        "10:05:00",
+        false
+    ],
+    "9/13/2024": [
+        {
+            "Location": 19449.25,
+            "Direction": "Long",
+            "RR": 51.25
+        },
+        "09:40:00",
+        true
+    ],
+    "9/14/2022": [
+        {
+            "Location": 12100.0,
+            "Direction": "Short",
+            "RR": 80.0
+        },
+        "09:40:00",
+        false
+    ],
+    "9/14/2023": [
+        {
+            "Location": 15588.0,
+            "Direction": "Short",
+            "RR": 51.0
+        },
+        "09:55:00",
+        true
+    ],
+    "9/15/2022": [
+        {
+            "Location": 12150.25,
+            "Direction": "Long",
+            "RR": 40.25
+        },
+        "09:45:00",
+        true
+    ],
+    "9/15/2023": [
+        {
+            "Location": 15576.75,
+            "Direction": "Short",
+            "RR": 51.0
+        },
+        "09:40:00",
+        true
+    ],
+    "9/16/2022": [
+        {
+            "Location": 11805.5,
+            "Direction": "Short",
+            "RR": 66.0
+        },
+        "10:10:00",
+        false
+    ],
+    "9/16/2024": [
+        {
+            "Location": 19341.25,
+            "Direction": "Short",
+            "RR": 99.25
+        },
+        "09:50:00",
+        false
+    ],
+    "9/17/2024": [
+        {
+            "Location": 19536.25,
+            "Direction": "Short",
+            "RR": 57.75
+        },
+        "09:50:00",
+        true
+    ],
+    "9/18/2023": null,
+    "9/18/2024": [
+        {
+            "Location": 19688.0,
+            "Direction": "Short",
+            "RR": 48.75
+        },
+        "11:20:00",
+        true
+    ],
+    "9/19/2022": [
+        {
+            "Location": 11883.75,
+            "Direction": "Long",
+            "RR": 68.25
+        },
+        "10:35:00",
+        true
+    ],
+    "9/19/2023": [
+        {
+            "Location": 15358.25,
+            "Direction": "Long",
+            "RR": 34.5
+        },
+        "09:50:00",
+        false
+    ],
+    "9/19/2024": [
+        {
+            "Location": 20021.75,
+            "Direction": "Short",
+            "RR": 37.0
+        },
+        "09:40:00",
+        false
+    ],
+    "9/2/2022": [
+        {
+            "Location": 12318.25,
+            "Direction": "Short",
+            "RR": 97.0
+        },
+        "10:30:00",
+        false
+    ],
+    "9/2/2024": [
+        {
+            "Location": 19616.5,
+            "Direction": "Short",
+            "RR": 15.75
+        },
+        "09:40:00",
+        false
+    ],
+    "9/20/2022": [
+        {
+            "Location": 11910.25,
+            "Direction": "Short",
+            "RR": 37.0
+        },
+        "10:05:00",
+        false
+    ],
+    "9/20/2023": [
+        {
+            "Location": 15419.75,
+            "Direction": "Long",
+            "RR": 45.0
+        },
+        "10:10:00",
+        false
+    ],
+    "9/20/2024": [
+        {
+            "Location": 20076.25,
+            "Direction": "Long",
+            "RR": 45.75
+        },
+        "09:50:00",
+        false
+    ],
+    "9/21/2022": [
+        {
+            "Location": 11940.25,
+            "Direction": "Short",
+            "RR": 37.0
+        },
+        "09:45:00",
+        false
+    ],
+    "9/21/2023": [
+        {
+            "Location": 15013.25,
+            "Direction": "Long",
+            "RR": 38.5
+        },
+        "09:45:00",
+        false
+    ],
+    "9/22/2022": [
+        {
+            "Location": 11632.0,
+            "Direction": "Short",
+            "RR": 50.5
+        },
+        "09:50:00",
+        true
+    ],
+    "9/22/2023": [
+        {
+            "Location": 14914.25,
+            "Direction": "Short",
+            "RR": 27.0
+        },
+        "09:45:00",
+        false
+    ],
+    "9/23/2022": [
+        {
+            "Location": 11427.5,
+            "Direction": "Short",
+            "RR": 43.75
+        },
+        "09:40:00",
+        true
+    ],
+    "9/23/2024": [
+        {
+            "Location": 20035.0,
+            "Direction": "Short",
+            "RR": 51.0
+        },
+        "09:45:00",
+        false
+    ],
+    "9/24/2024": [
+        {
+            "Location": 20100.75,
+            "Direction": "Short",
+            "RR": 53.5
+        },
+        "10:00:00",
+        true
+    ],
+    "9/25/2023": [
+        {
+            "Location": 14835.75,
+            "Direction": "Long",
+            "RR": 53.5
+        },
+        "09:55:00",
+        true
+    ],
+    "9/25/2024": [
+        {
+            "Location": 20193.75,
+            "Direction": "Long",
+            "RR": 56.0
+        },
+        "10:05:00",
+        true
+    ],
+    "9/26/2022": [
+        {
+            "Location": 11433.25,
+            "Direction": "Long",
+            "RR": 91.0
+        },
+        "10:15:00",
+        true
+    ],
+    "9/26/2023": [
+        {
+            "Location": 14838.25,
+            "Direction": "Long",
+            "RR": 35.75
+        },
+        "09:45:00",
+        false
+    ],
+    "9/26/2024": [
+        {
+            "Location": 20445.5,
+            "Direction": "Short",
+            "RR": 72.25
+        },
+        "10:25:00",
+        true
+    ],
+    "9/27/2022": [
+        {
+            "Location": 11531.0,
+            "Direction": "Long",
+            "RR": 70.25
+        },
+        "10:00:00",
+        false
+    ],
+    "9/27/2023": [
+        {
+            "Location": 14789.5,
+            "Direction": "Long",
+            "RR": 40.5
+        },
+        "10:00:00",
+        false
+    ],
+    "9/27/2024": [
+        {
+            "Location": 20339.0,
+            "Direction": "Short",
+            "RR": 44.25
+        },
+        "10:10:00",
+        true
+    ],
+    "9/28/2022": [
+        {
+            "Location": 11340.25,
+            "Direction": "Long",
+            "RR": 74.5
+        },
+        "10:35:00",
+        true
+    ],
+    "9/28/2023": [
+        {
+            "Location": 14712.25,
+            "Direction": "Long",
+            "RR": 51.25
+        },
+        "09:40:00",
+        false
+    ],
+    "9/29/2022": [
+        {
+            "Location": 11362.5,
+            "Direction": "Short",
+            "RR": 40.0
+        },
+        "09:40:00",
+        true
+    ],
+    "9/29/2023": [
+        {
+            "Location": 14985.5,
+            "Direction": "Short",
+            "RR": 31.0
+        },
+        "09:45:00",
+        false
+    ],
+    "9/3/2024": [
+        {
+            "Location": 19404.75,
+            "Direction": "Short",
+            "RR": 78.75
+        },
+        "10:00:00",
+        true
+    ],
+    "9/30/2022": [
+        {
+            "Location": 11173.25,
+            "Direction": "Short",
+            "RR": 72.25
+        },
+        "09:50:00",
+        false
+    ],
+    "9/30/2024": [
+        {
+            "Location": 20233.5,
+            "Direction": "Long",
+            "RR": 65.0
+        },
+        "10:05:00",
+        false
+    ],
+    "9/4/2023": [
+        {
+            "Location": 15564.5,
+            "Direction": "Long",
+            "RR": 10.5
+        },
+        "09:50:00",
+        true
+    ],
+    "9/4/2024": [
+        {
+            "Location": 18928.75,
+            "Direction": "Long",
+            "RR": 69.0
+        },
+        "10:00:00",
+        false
+    ],
+    "9/5/2022": [
+        {
+            "Location": 12115.25,
+            "Direction": "Long",
+            "RR": 11.25
+        },
+        "09:40:00",
+        true
+    ],
+    "9/5/2023": [
+        {
+            "Location": 15460.0,
+            "Direction": "Short",
+            "RR": 38.0
+        },
+        "09:40:00",
+        false
+    ],
+    "9/5/2024": [
+        {
+            "Location": 18946.75,
+            "Direction": "Long",
+            "RR": 62.0
+        },
+        "09:40:00",
+        true
+    ],
+    "9/6/2022": [
+        {
+            "Location": 12097.5,
+            "Direction": "Short",
+            "RR": 71.75
+        },
+        "09:55:00",
+        true
+    ],
+    "9/6/2023": [
+        {
+            "Location": 15467.0,
+            "Direction": "Short",
+            "RR": 37.5
+        },
+        "09:40:00",
+        false
+    ],
+    "9/6/2024": [
+        {
+            "Location": 18884.75,
+            "Direction": "Short",
+            "RR": 82.75
+        },
+        "09:40:00",
+        true
+    ],
+    "9/7/2022": [
+        {
+            "Location": 12083.25,
+            "Direction": "Long",
+            "RR": 47.5
+        },
+        "10:15:00",
+        false
+    ],
+    "9/7/2023": [
+        {
+            "Location": 15203.5,
+            "Direction": "Long",
+            "RR": 46.25
+        },
+        "10:40:00",
+        true
+    ],
+    "9/8/2022": [
+        {
+            "Location": 12118.25,
+            "Direction": "Short",
+            "RR": 58.5
+        },
+        "09:40:00",
+        false
+    ],
+    "9/8/2023": [
+        {
+            "Location": 15350.0,
+            "Direction": "Long",
+            "RR": 80.25
+        },
+        "14:55:00",
+        false
+    ],
+    "9/9/2022": [
+        {
+            "Location": 12469.75,
+            "Direction": "Long",
+            "RR": 54.5
+        },
+        "10:00:00",
+        true
+    ],
+    "9/9/2024": [
+        {
+            "Location": 18664.75,
+            "Direction": "Long",
+            "RR": 60.25
+        },
+        "10:30:00",
+        false
+    ]
+}
