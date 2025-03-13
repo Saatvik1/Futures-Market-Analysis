@@ -23,13 +23,14 @@ The data given to me was in the following format:
 Much of the data had to be reformatted, especially column names, and the datetime formats. Additional labels were applied to rows to categorize candlestick data by session, for trade scripting to be easier. 
 
 # Executive Summary
-We can see that during the total duration of the simulation (from October 2021 - October 2024), the strategy has proven to be unprofitable. The total win rate percentage was 49.8%, with the total count of trades being 769, so it's a fairly large sample size. 
+We can see that during the total duration of the simulation (from October 2021 - October 2024), the strategy has proven to be unprofitable. The total win rate percentage was 49.8%, with the total count of trades being 769, so it's a fairly large sample size. Over time, it netted a loss of 554 points, which is actually not alot, considering that the distribution of points wagered per trade is centered around 40-50, with a tail to the higher side, meaning that the difference from -554 points to 0 points could have been a mere 10-15 trades. We can also see that the long and short winrate in total were both 50%, and both showing no significant PnL trends or changes in the RR distribution. So while there may be reasons to consider this strategy a breakeven strategy at best, most signs point to it being unrelaible, and having no greater edge in the market than a coin flip. Specific trending periods are analyzed in the following section, and the entire interactive dashboard can be downloaded [here](https://github.com/Saatvik1/Futures-Market-Analysis/blob/main/Analysis/NQ/Zanek5Breakout/IntermediateData/5MORB_Analysis.pbix) .
 
 ![image](https://github.com/user-attachments/assets/5f0c1127-6cec-49dd-850e-08ed8588ea12)
 
 
 
 # Insights Deep Dive
+
 
 # Recommendations
 
