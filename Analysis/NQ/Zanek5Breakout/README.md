@@ -19,6 +19,7 @@
 
 # Background and Overview
 [Back to Top](#table-of-contents)
+
 ### What is a mechanical strategy?
 Mechanical trading strategies is a highly controversial topic in the trading community, especially in futures trading. To start off, let me define a mechanical vs discretionary strategy. 
 
@@ -41,6 +42,7 @@ We wanted to know the following:
 
 # Data Structure Overview
 [Back to Top](#table-of-contents)
+
 The data given to me was in the following format:
 
 ![image](https://github.com/user-attachments/assets/eb9b4a0c-8968-4b6f-ba56-481352192179)
@@ -53,6 +55,7 @@ A script that I created then took all of this candlestick data from the past 3 y
 
 # Executive Summary
 [Back to Top](#table-of-contents)
+
 We can see that during the total duration of the simulation (from October 2021 - October 2024), the strategy has proven to be unprofitable. The **total win rate percentage was 49.8%**, with the **total count of trades being 769**, so it's a fairly large sample size. Over time, it **netted a loss of 554 points**, which is not alot, considering that the distribution of points wagered per trade is centered around 40-50, with a tail to the higher side, meaning that the difference from -554 points to 0 points could have been a mere 10-15 trades. We can also see that **the long and short winrate in total were both 50%,** and both show **no significant PnL trends or changes in the RR distribution**. So while there may be reasons to consider this strategy a breakeven strategy at best, most signs point to it being **unreliable, and having no greater edge in the market than a coin flip**. Specific trending periods are analyzed in the following section, and the entire interactive dashboard can be downloaded [here](https://github.com/Saatvik1/Futures-Market-Analysis/blob/main/Analysis/NQ/Zanek5Breakout/IntermediateData/5MORB_Analysis.pbix).
 
 ![image](https://github.com/user-attachments/assets/5f0c1127-6cec-49dd-850e-08ed8588ea12)
@@ -63,6 +66,7 @@ We can see that during the total duration of the simulation (from October 2021 -
 
 # Insights Deep Dive
 [Back to Top](#table-of-contents)
+
 So we have ruled out using this strategy as a standalone strategy. Is there anything that can be done to turn it from a coinflip and at best breakeven strategy to a winning strategy with real edge in the market? To answer this question, I wanted to dig a little deeper into the data, trying to uncover any aspects that would show that certain conditions of the strategy tend to be more profitable. 
 ### Questions:
 - If we break out of the 5 minute opening range later than usual, does that mean a more directional move is more likely, giving us a better chance of winning? If so, we can apply a time filter to our strategy to increase the win %.
@@ -89,6 +93,7 @@ Question 3 was not explored to it's entirety. At this point, my stakeholder was 
 
 # Conclusions / Recommendations 
 [Back to Top](#table-of-contents)
+
 - The strategy alone is **no better than a coin flip**, and since the risk reward distribution isn't skewed enough between wins and losses, it doesn't make sense to use this strategy. 
 - **Simple tweaks are not enough to make the strategy better** than its default state, as we have explored in the deep insights section.
 - As a purely mechanical strategy without any other complicated technicals being calculated along with it, traders should shy away from it, or **consider adding a discretionary component** to either increase its win rate %, or to increase the risk reward ratio to ensure profitability.
