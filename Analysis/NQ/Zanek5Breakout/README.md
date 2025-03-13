@@ -34,7 +34,7 @@ People will swear by automated strategies, some people swear by purely discretio
 If price first breaks the high, the trader will be entered in a long, betting that price will go higher. The take profit is the # of points that the opening range size is. So if the opening range size is 5 points, and the trader enters into a long at a price of 10,000, the take profit for the trade is at 10,005, and the stop loss is at 9,990, the other side of the opening range.
 
 ### Stakeholder Request:
-The trader who sought the opinion of others wanted to know if it was a strategy worth using. Since it is a purely mechanical strategy, it can be coded and back-tested, which I offered to do for him. 
+The trader who sought the opinion of others wanted to know if it was a strategy worth using. The stakeholder wanted a simple strategy, one that isn't complicated, and something that is low cost to run and keep track of. Since it is a purely mechanical strategy, it can be coded and back-tested, which I offered to do for him. 
 We wanted to know the following:
 - Has the strategy been profitable?
 - Is the strategy overly risky? That is, are the stop sizes too large to risk, given that traders can only accumulate so much drawdown.
@@ -95,4 +95,4 @@ Question 3 was not explored to it's entirety. At this point, my stakeholder was 
 - The strategy alone is **no better than a coin flip**, and since the risk reward distribution isn't skewed enough between wins and losses, it doesn't make sense to use this strategy. 
 - **Simple tweaks are not enough to make the strategy better** than its default state, as we have explored in the deep insights section.
 - As a purely mechanical strategy without any other complicated technicals being calculated along with it, traders should shy away from it, or **consider adding a discretionary component** to either increase its win rate %, or to increase the risk reward ratio to ensure profitability.
-- In the future, the third question may be answered if I create a helper script to detect trending markets, but for now this strategy has been shoved in a drawer. 
+- In the future, the third question may be answered if I create a helper script to detect trending markets, and perhaps other variables such as volume, overnight session behaviour, but for now this strategy has been shoved in a drawer, as requested by the stakeholder, since the purpose of this exploration to was discover something extremely simple and low-cost to run.
