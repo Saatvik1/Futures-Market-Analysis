@@ -62,8 +62,6 @@ We can see that during the total duration of the simulation (from October 2021 -
 ![image](https://github.com/user-attachments/assets/de2fd626-cb9b-4887-a933-d59a73701caf)
 ![image](https://github.com/user-attachments/assets/3ac7556a-d0cb-499a-8cec-5fd395a668cc)
 
-
-
 # Insights Deep Dive
 [Back to Top](#table-of-contents)
 
