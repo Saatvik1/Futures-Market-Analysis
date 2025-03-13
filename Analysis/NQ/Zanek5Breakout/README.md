@@ -55,14 +55,17 @@ As we can see here, there is essentially no difference in time entry and exit di
 
 ### Question 2:
 
-To answer this question, I needed to observe the distribution of the Risk/Reward diagram. Using Python, I quickly found the RR outlier to be any trade that risks over 106 points. Using this, I used the dashboard to analyze the trades with an RR of 100 or more. Similarly, this only made up 5% of the dataset, so simply removing outliers is also not viable to create an edge with this strategy. 
+To answer this question, I needed to observe the distribution of the Risk/Reward diagram. Using Python, I quickly found the RR outlier to be any trade that risks over 106 points. Using this, I used the dashboard to analyze the trades with an RR of 100 or more. Similarly, **this only made up 5% of the dataset, so simply removing outliers is also not viable to create an edge with this strategy**. 
 ![image](https://github.com/user-attachments/assets/d1186ff3-950a-4d2d-9c58-bf9829418d88) ![image](https://github.com/user-attachments/assets/a15e44c6-ec23-4052-8434-974454b9b5f3)
 
-In the second image I took the RR trades that generate the most amount of points throughout the 3 years, which was approximately 38% of the # of trades taken. In this span, the win percentage increased from the all-inclusive rate of 49.8% to 53.7%, which is not much of a significant difference, again, especially when taking into account the frequency of trades taken greatly diminishes, which may cause the trader to see less consistent positive return on their trades. 
+In the second image I took the RR trades that generate the most amount of points **throughout the 3 years, which was approximately 38% of the # of trades taken**. In this span, the **win percentage increased from the all-inclusive rate of 49.8% to 53.7%, which is not much of a significant difference**, again, especially when taking into account the frequency of trades taken greatly diminishes, which may cause the trader to see less consistent positive return on their trades. 
 
 ### Question 3:
 Question 3 was not explored to it's entirety. At this point, my stakeholder was unimpressed with the strategy and told me to leave it alone, along with the fact that this question requires more time and effort to either manually go through charts and check for correlations, or to create a script that identifies trending markets. Either way, my stakeholder indicated that they will not use this strategy, especially because of their desire to find a simple trading strategy to use, and any more investigation will lead them down a road of requiring more complex parameters to make the strategy work. 
 
 
-# Recommendations
-The strategy alone is no better than a coin flip, and since the risk reward distribution isn't skewed enough between wins and losses, it doesn't make sense to use this strategy. Simple tweaks are not enough to make the strategy better than its default state, as we have explored in the deep insights section. As a purely mechanical strategy without any other complicated technicals being calculated along with it, traders should shy away from it, or consider adding a discretionary component to either increase its win rate %, or to increase the risk reward ratio to ensure profitability. In the future, the third question may be answered if I create a helper script to detect trending markets, but for now this strategy has been shoved in a drawer. 
+# Conclusions / Recommendations 
+- The strategy alone is **no better than a coin flip**, and since the risk reward distribution isn't skewed enough between wins and losses, it doesn't make sense to use this strategy. 
+- **Simple tweaks are not enough to make the strategy better** than its default state, as we have explored in the deep insights section.
+- As a purely mechanical strategy without any other complicated technicals being calculated along with it, traders should shy away from it, or **consider adding a discretionary component** to either increase its win rate %, or to increase the risk reward ratio to ensure profitability.
+- In the future, the third question may be answered if I create a helper script to detect trending markets, but for now this strategy has been shoved in a drawer. 
