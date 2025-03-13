@@ -1,3 +1,22 @@
+# Table of Contents  
+
+- [Background and Overview](#background-and-overview)  
+  - [What is a mechanical strategy?](#what-is-a-mechanical-strategy)  
+  - [What is the 5 Minute Opening Range Breakout Strategy?](#what-is-the-5-minute-opening-range-breakout-strategy)  
+  - [Stakeholder Request](#stakeholder-request)  
+
+- [Data Structure Overview](#data-structure-overview)  
+
+- [Executive Summary](#executive-summary)  
+
+- [Insights Deep Dive](#insights-deep-dive)  
+  - [Questions](#questions)  
+  - [Question 1: Effect of Entry Time on Win Rate](#question-1-effect-of-entry-time-on-win-rate)  
+  - [Question 2: Impact of Risk/Reward Distribution](#question-2-impact-of-riskreward-distribution)  
+  - [Question 3: Influence of Market Trends](#question-3-influence-of-market-trends)  
+
+- [Conclusions / Recommendations](#conclusions--recommendations)  
+
 # Background and Overview
 ### What is a mechanical strategy?
 Mechanical trading strategies is a highly controversial topic in the trading community, especially in futures trading. To start off, let me define a mechanical vs discretionary strategy. 
