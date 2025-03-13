@@ -157,7 +157,7 @@ cython_debug/
 # Misc
 Weekly_Trades/**/*.csv
 Weekly_Trades/**/*.json
-Weekly_Trades/**/*.xslx
+Weekly_Trades/**/*.xlsx
 Analysis/Trades/*.ipynb
 .DS_Store
 **/.DS_Store
